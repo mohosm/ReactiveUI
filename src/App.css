@@ -1,0 +1,30 @@
+.App {
+
+padding: 30 px;
+margin-bottom: 20 px;
+background-color: white; 
+width: 800px;
+
+}
+
+.egy {
+	margin: 30 px;
+	width: 20%;
+	display: inline-block;
+	vertical-align: top;
+	
+
+
+}
+
+.ketto{
+	margin: 30 px;
+	width: 50%;
+	display: inline-block;
+}
+
+.harom{
+	margin: 30 px;
+	width: 30%;
+	display: inline-block;
+}
