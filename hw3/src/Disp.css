@@ -1,0 +1,14 @@
+.Disp{
+	display: block;
+	width: 74%;
+	margin: 15px;
+	padding: 20px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+	font-family: "Helvetica";
+	background: #DCDCDC;
+	font-size: 20px;
+	color: #505050;
+	border-radius: 20px;
+}
