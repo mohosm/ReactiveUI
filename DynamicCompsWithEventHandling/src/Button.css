@@ -1,0 +1,18 @@
+.Button{
+	font-family: "Helvetica";
+	display: inline-block;
+	width: 180px;
+	height: 70px;
+	margin: 15px;
+	background: none;
+	border: 2px solid green;
+	outline: green;
+	color: green;
+	font-size: 16px;
+
+}
+
+.active{
+	background: green;
+	color: white;
+}
