@@ -1,0 +1,26 @@
+.field{
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+p {
+	font-size: 14px;
+	color: gray;
+	line-height: 14px;
+}
+
+input{
+	color: black;
+	border: none;
+	border-bottom: solid #D3D3D3 1px;
+	font-size: 24px;
+
+
+}
+input:focus{
+	outline: none;
+}
+
+input::placeholder{
+	color: #D3D3D3;
+}
