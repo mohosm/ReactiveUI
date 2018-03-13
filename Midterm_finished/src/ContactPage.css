@@ -1,0 +1,44 @@
+.ContactPage{
+
+}
+
+.ContactPage img {
+	margin-left: 30px;
+	margin-bottom: 30px;
+}
+.ContactPage h1{
+	padding: 4px;
+	padding-left: 10px;
+	width: 100%;
+	height: 40px;
+	background-color: white;
+}
+
+.ContactPage a{
+	position: fixed;
+	bottom: 20px;
+	text-decoration: none;
+	text-align: center;
+	width: 100%;
+	background-color: white;
+	margin-left: 0;
+	line-height: 40px;
+}
+.ContactPage a:hover{
+	background-color: green;
+	color: white;
+}
+.ContactPage p{
+	background-color: white;
+	margin-left: 50px;
+	padding: 10px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.number{
+	background-color: rgb(189,216,238);
+	margin-bottom: 20px;
+	line-height: 50px;
+	font-size: 32px;
+	text-align: center;
+}

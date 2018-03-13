@@ -1,0 +1,76 @@
+.Homepage {
+	width: 100%;
+}
+.container{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+}
+.vertical {
+
+	width: 60%;
+}
+
+.vertical button {
+	border: none;
+    background-color: #eee; /* Grey background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+    overflow: hidden;
+}
+input {
+	position: fixed;
+	top: 0;
+	margin: 0;
+	width: 100%;
+	border-bottom: 2px solid green;
+	height: 40px;
+	font-size: 30px;
+	color: gray;
+	padding-left: 10px;
+}
+.footer {
+	background-color: white;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	padding: 15px;
+}
+
+.vertical {
+	background-color: white;
+	width: 30%;
+	left: 20%;
+	position: fixed;
+	bottom: 0;
+	display: block;
+}
+.thelist{
+	display: none;
+}
+.footer div {
+	display: inline-block;
+	margin: 20px;
+}
+
+.lister {
+	width: 100%;
+height: 49px;
+}
+
+.act{
+		width: 100%;
+height: 48px;
+display: inline-block;
+}
+
+.vertical:hover .thelist{
+display: block;
+}
+
+.lister:hover{
+background-color: green;
+color: white;
+}
