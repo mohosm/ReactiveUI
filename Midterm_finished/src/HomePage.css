@@ -24,15 +24,58 @@ input {
 	position: fixed;
 	top: 0;
 	margin: 0;
-	width: 100%;
-	border-bottom: 2px solid green;
+	width: 60%;
+	border-bottom: 5px solid green;
 	height: 40px;
 	font-size: 30px;
 	color: gray;
 	padding-left: 10px;
 }
+
+.filterLink{
+	text-decoration: none;
+	position: fixed;
+	top: 0;
+	margin: 0;
+	right: 0;
+	width: 36%;
+	height: 48px;
+	border: none;
+	color: white;
+	background-color: green;
+}
+
+.filterDropdown{
+	display:none;
+	top:47px;
+	width: 36%;
+	position: fixed;
+	right:0;
+}
+.filterDropdown button{
+	
+
+	top:120px;
+	text-align: center;
+	width:100%;
+	height: 46px;
+	border: none;
+
+	display:block;
+}
+.filterDropdown button:hover{
+	background: green;
+	color: white;
+	
+}
+.theTop:hover .filterDropdown{
+	display: block;
+
+	
+}
 .footer {
-	background-color: white;
+	background-color: green;
+	color: white;
 	width: 100%;
 	position: fixed;
 	bottom: 0;
@@ -40,17 +83,18 @@ input {
 }
 
 .vertical {
-	background-color: white;
 	width: 30%;
 	left: 20%;
 	position: fixed;
 	bottom: 0;
 	display: block;
+	background-color: green;
 }
 .thelist{
 	display: none;
 }
 .footer div {
+	background-color: green;
 	display: inline-block;
 	margin: 20px;
 }
@@ -58,16 +102,19 @@ input {
 .lister {
 	width: 100%;
 height: 49px;
+background-color: green;
 }
 
 .act{
 		width: 100%;
 height: 48px;
 display: inline-block;
+background-color: green;
 }
 
 .vertical:hover .thelist{
 display: block;
+background-color: green;
 }
 
 .lister:hover{

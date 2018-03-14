@@ -9,7 +9,7 @@ class ContactPage extends Component {
         <h1>
           {this.props.contact.Firstname} {this.props.contact.Lastname}
         </h1>
-        <img src={this.props.contact.imgUrl} width="300" height="300" />
+        <img src={this.props.contact.imgUrl} width="300" height="300" alt="Couldn't load file" />
         <div className="number">{this.props.contact.phone}</div>
         <p>Email: {this.props.contact.email}</p>
         <p>Works at {this.props.contact.work}</p>

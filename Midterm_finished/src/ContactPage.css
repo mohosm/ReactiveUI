@@ -20,13 +20,14 @@
 	text-decoration: none;
 	text-align: center;
 	width: 100%;
-	background-color: white;
+	background-color: green;
+	color: white;
 	margin-left: 0;
 	line-height: 40px;
 }
 .ContactPage a:hover{
-	background-color: green;
-	color: white;
+	background-color: white;
+	color: black;
 }
 .ContactPage p{
 	background-color: white;

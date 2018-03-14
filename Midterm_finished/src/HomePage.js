@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+
 import Contact from "./Contact";
 import './HomePage.css';
 
@@ -8,13 +8,19 @@ class HomePage extends Component {
     super(props);
     this.onSearch = this.onSearch.bind(this);
     this.sortIt = this.sortIt.bind(this);
+    this.filterIt = this.filterIt.bind(this);
 this.state = {
       search: "",
-      sort: "Last name"
+      sort: "Lastname",
+      filter:""
     }
 
   }
-
+  filterIt(f){
+  this.setState({
+    filter: f
+  })
+  }
 
   onSearch(e){
   this.setState({
@@ -30,10 +36,9 @@ this.state = {
 
 
   render() {
-
-    const buttons = ["First name","Last Name", "Job", "Email","City"]
+    const buttons = ["First name","Last name", "Work", "Email","City"]
     const bmapped = buttons.map((item,i) =>{
-      return <button className="lister" onClick={() => {
+      return <button className="lister" key={i} onClick={() => {
         this.sortIt(item);
       }
         
@@ -41,22 +46,92 @@ this.state = {
       }>{item}</button>
         
     });
-    //let iss = {};
+    //
     let arrCopy = this.props.contacts.slice();
     if (this.state.sort === "Last name"){
-    arrCopy = arrCopy.sort((a, b) => a.Lastname > b.Lastname);
+    arrCopy = arrCopy.sort(function(a, b) {
+        var x = a.Lastname;
+        var y = b.Lastname;
 
-  } else if (this.state.sort === "Job"){
-    arrCopy = arrCopy.sort((a, b) => a.work > b.work);
+        if (typeof x === "string")
+        {
+            x = (""+x).toLowerCase(); 
+        }
+        if (typeof y === "string")
+        {
+            y = (""+y).toLowerCase();
+        }
+
+        return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+    });
+
+  } else if (this.state.sort === "Work"){
+    arrCopy = arrCopy.sort(function(a, b) {
+        var x = a.work;
+        var y = b.work;
+
+        if (typeof x === "string")
+        {
+            x = (""+x).toLowerCase(); 
+        }
+        if (typeof y === "string")
+        {
+            y = (""+y).toLowerCase();
+        }
+
+        return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+    });
 
   } else if (this.state.sort === "Email"){
-    arrCopy = arrCopy.sort((a, b) => a.email > b.email);
+    arrCopy = arrCopy.sort(function(a, b) {
+        var x = a.email;
+        var y = b.email;
+
+        if (typeof x === "string")
+        {
+            x = (""+x).toLowerCase(); 
+        }
+        if (typeof y === "string")
+        {
+            y = (""+y).toLowerCase();
+        }
+
+        return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+    });
 
   } else if (this.state.sort === "First name"){
-    arrCopy = arrCopy.sort((a, b) => a.Firstname > b.Firstname);
+    arrCopy = arrCopy.sort(function(a, b) {
+        var x = a.Firstname;
+        var y = b.Firstname;
+
+        if (typeof x === "string")
+        {
+            x = (""+x).toLowerCase(); 
+        }
+        if (typeof y === "string")
+        {
+            y = (""+y).toLowerCase();
+        }
+
+        return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+    });
 
   }else if (this.state.sort === "City"){
-    arrCopy = arrCopy.sort((a, b) => a.city > b.city);
+    arrCopy = arrCopy.sort(function(a, b) {
+        var x = a.city;
+        var y = b.city;
+
+        if (typeof x === "string")
+        {
+            x = (""+x).toLowerCase(); 
+        }
+        if (typeof y === "string")
+        {
+            y = (""+y).toLowerCase();
+        }
+
+        return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+    });
 
   }
 
@@ -75,16 +150,43 @@ this.state = {
         let tooSearch = lowFirst + " " + lowLast + " " + lowJob + " " + lowMail + " "+ lowCity;
         return tooSearch.match(lowState);
       }
-      
-
-        
       );
-
     }
+if (this.state.filter !=="All"){
+    arrCopy = arrCopy.filter( item =>{
+        return item.group.match(this.state.filter);
+      }
+    );
+} else{
+  arrCopy = this.props.contacts.slice();
+}
+
+
+
+
     const contactList = arrCopy.map(c => (
 
-      <Contact  phone={c.phone} key = {c.id} id ={c.id} Firstname={c.Firstname} Lastname={c.Lastname} job={c.work} email={c.email} picURL={c.imgUrl} city={c.city} sorter={this.state.sort} />
+      <Contact  phone={c.phone} key = {c.id} id ={c.id} Firstname={c.Firstname} Lastname={c.Lastname} work={c.work} email={c.email} picURL={c.imgUrl} city={c.city} sorter={this.state.sort} />
     ));
+
+    const groups0 = this.props.contacts.slice();
+    const groups1 = [];
+    for(var i in groups0){
+      groups1.push(groups0[i].group);
+    };
+
+
+    const groups2 = groups1.filter((item,pos)=>{
+      return groups1.indexOf(item) === pos;
+    }
+    );
+    const filterB = groups2.map(c => (
+      <button onClick={() => {
+        this.filterIt(c);
+      }}>{c}</button>
+    ));
+    console.log(filterB);
+
 
     return <div className="HomePage">
   
@@ -92,7 +194,14 @@ this.state = {
     {contactList}
     </div>
     <input type="text" placeholder="Search here" onChange={this.onSearch} />
+    <div className="theTop">
+    <button className="filterLink">Filter by group</button>
+        <div className="filterDropdown">{filterB}<button onClick={(a) => {
+        this.filterIt("All");
+      }}>All</button></div>
         <div className = "footer">Sort by</div>
+          </div>
+
         <div className = "vertical">
         <div className="thelist">
         {bmapped}
