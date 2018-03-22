@@ -20,7 +20,7 @@
     text-decoration: none; /* Remove underline from links */
     overflow: hidden;
 }
-input {
+.searcher {
 	position: fixed;
 	top: 0;
 	margin: 0;

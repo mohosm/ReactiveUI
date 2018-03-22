@@ -193,7 +193,7 @@ if (this.state.filter !=="All"){
   <div className = "container">
     {contactList}
     </div>
-    <input type="text" placeholder="Search here" onChange={this.onSearch} />
+    <input type="text" placeholder="Search here" className="searcher" onChange={this.onSearch} />
     <div className="theTop">
     <button className="filterLink">Filter by group</button>
         <div className="filterDropdown">{filterB}<button onClick={(a) => {

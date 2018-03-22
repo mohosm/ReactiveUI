@@ -25,3 +25,52 @@ span {
 	margin-right: 0;
 	display: inline-block;
 }
+.App .addStuff .addButton{
+
+	width: 60px;
+	height: 48px;
+	border-radius: 20px 0 0 0;
+	text-decoration: none;
+	border: none;
+}
+.App .addStuff .addForm{
+	display: none;
+padding: 30px;
+position: fixed;
+width: max-content;
+top: 20%;
+left: 8%;
+background-color: rgba(255,255,255,0.9);
+}
+.App .addStuff .addForm input{
+width: 250px;
+display: block;
+margin-top: 10px;
+margin-bottom: 10px;
+height: 30px;
+border: none;
+border: 1px solid black;
+}
+
+
+.App .addStuff{
+		position: fixed;
+	bottom: 0;
+	right: 0;
+}
+.App .addAction{
+	border: none;
+	background-color: green;
+	color: white;
+	padding: 10px;
+}
+.App .addAction:hover{
+	color: green;
+	background-color: white;
+}
+.addStuff:hover .addForm{
+	display: block;
+}
+.addAction:active .addForm{
+	display: none;
+}
