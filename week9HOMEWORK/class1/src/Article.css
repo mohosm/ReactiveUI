@@ -1,0 +1,56 @@
+.cont {
+	width: 700px;
+	display: flex;
+	margin: 10px;
+	border-bottom: gray solid 1px;
+}
+
+.cont h1 {
+	flex: 0 0 100px;
+	font-family: "Times New Roman";
+	color: #999;
+	font-size: 12px;
+	font-weight: normal;
+	padding: 25px;
+}
+
+.mid {
+	margin: 10px;
+}
+
+.cont h2 {
+	font-family: "cheltenham-normal-400",georgia,"times new roman",times,serif;
+	font-style: none;
+	font-weight: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+}
+
+.cont h3 {
+	font-family: "Georgia";
+	font-size: 12px;
+	font-style: none;
+	font-weight: normal;
+	line-height: 16px;
+
+}
+
+.cont p{
+	font-size: 10px;
+	color: #999;
+	
+}
+
+.cont p span {
+	text-transform: capitalize;
+}
+
+.cont figure {
+	flex: 0 0 160;
+	margin: 20px;
+}
+
+.cont figure img {
+	width: 160px;
+}
