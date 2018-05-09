@@ -1,0 +1,115 @@
+{
+  "pages":{
+    "1":{
+      "name": "12 regional papers",
+      "mother": "Mediaworks",
+      "legend":"There regional papers are published daily in twelve counties of Hungary. In them, government adverts and centrally written articles take up three whole pages every day.",
+      "leader":"Lorinc Meszaros",
+      "type":"outlet"
+    },
+    "2":{
+      "name": "Echo TV",
+      "mother": "Mediaworks",
+      "legend":"One of the major conservative TV channels in the country. Fidesz has started putting their influence on them even when they were the opposition party. By now, Echo TV is fully integrated into the state media system.",
+      "leader":"Boglarka Farkas",
+      "type":"outlet"
+    },
+    "3":{
+      "name": "Magyar Idők",
+      "mother": "Mediaworks",
+      "legend":"The successor of one of Hungary's most renowned economics paper, 'Napi Gazdasag.' It was purchased by Gabor Liszkay in 2015, and then became a major outlet for conservative intellectuals in the country. ",
+      "leader":"Otto Gajdics",
+      "type":"outlet"
+    },
+    "4":{
+      "name": "Karc FM",
+      "mother": "Mediaworks",
+      "legend":"A conservative radio station, closely associated with Magyar Idok, likewise headed by Otto Gajdics.",
+      "leader":"Otto Gajdics",
+      "type":"outlet"
+    },
+    "5":{
+      "name": "TV2",
+      "mother": "Modern Media",
+      "legend":"One of the oldest and highest rated commercial/entertainment TV channels in the country. In 2015, it was bought by Hollywood producer Andy Vajna, another close friend of Orban. Since then, TV2 went on to become one of the most wide-reaching media in the government's propaganda.",
+      "leader":"Vivien Szalay,Andy Vajna",
+      "type":"outlet"
+    },
+    "6":{
+      "name": "Origo and New Wave",
+      "mother": "Modern Media",
+      "legend":"Origo has been one of the major independent news portals in Hungary, until its purchase by government-related circles in 2014. Then, many journalists have left the site in protest, and the new leadership produces anti-immigrant, biased coverage of international events on a daily basis.",
+      "leader":"Laszlo Gabor",
+      "type":"outlet"
+    },
+    "7":{
+      "name": "Lokál",
+      "mother": "Modern Media",
+      "legend":"Lokál is a free, weekly tabloid paper launched in 2015 by Arpad Habony, unofficial aid to the prime minister. The government's propaganda and anti-refugee sentiments are also extremely present.",
+      "leader":"Arpad Habony",
+      "type":"outlet"
+    },
+    "8":{
+      "name": "888",
+      "mother": "Modern Media",
+      "legend":"Right-wing news portal aimed at young leaders, lead by Szazadvég researcher G Gabor Fodor.",
+      "leader":"Gabor G Fodor",
+      "type":"outlet"
+    },
+    "9":{
+      "name": "Figyelő",
+      "mother": "Modern Media",
+      "legend":"From being one of the most renowned investigative economic publications, this outlet now produces Fidesz-propaganda almsot exclusively. Recently, they came under fire for publishing a list of the so-called 'agents' of George Soros, who are allegedly directly paid by the philantropist to take down the Hungarian government. The list mainly includes associates of NGOs and other independent activists.",
+      "leader":"Tamas Lanczi,Maria Schmidt",
+      "type":"outlet"
+    },
+    "10":{
+      "name": "Ripost",
+      "mother": "Modern Media",
+      "legend":"One of the most well-known tabloid papers in the country, likewise under close government control.",
+      "leader":"Miklos Omolnar",
+      "type":"outlet"
+    },
+    "11":{
+      "name":"MTVA",
+      "legend":"The official state TV, encompassing five different channels and many online domains. This platform is entirely funded by tax money, and is under the strictest government control. Even though it managed to retain an independent, non-biased coverage during Hungary's post-communist history, Fidesz became the first governing party to continously push their influence upon these outlets.",
+      "leader": "Attila Varhegyi,Zsolt Nemeth",
+      "type":"publisher"
+    },
+    "12":{
+      "name":"Modern Media",
+      "legend":"The publishing company of Arpad Habony, one of the most important people in Orban's inner circle.",
+      "leader": "Arpad Habony,Gabor G Fodor",
+      "type":"publisher"
+    },
+    "13":{
+      "name":"Mediaworks",
+      "legend":"The central editorial for many of the country's news outlets. Mediaworks is owned by Lorinc Meszaros, one of Hungary's richest men, a close friend of Orban.",
+      "leader":"Peter Csermely,Gabor Liszkay,Lorinc Meszaros",
+      "type":"publisher"
+    },
+    "14":{
+      "name":"Nézőpont Institute",
+      "legend":"Additional market research is being done by this institute, the importance of which is second to Századvég.",
+      "leader":"Agoston Mraz",
+      "type":"input",
+      "to":["Modern Media", "Prime Minister's Cabinet Office"]
+    },
+    "15":{
+      "name":"Századvég, Kód Market Research",
+      "legend":"This market research organization is paid 6 billion forints a year by the Prime Minister's Cabinet Office to conduct market research and supply the propaganda machine with neccessary data. Based on their research, it is decided what topics and key phrases to focus on in their mass communication. Even though public money is spent on these researches, the results are not public, since Századvég is not a direct contractor of the state.",
+      "leader":"Gabor Furesz,Gabor G Fodor",
+      "type":"input",
+      "to":["Prime Minister's Cabinet Office"]
+    },
+    "16":{
+      "name":"Prime Minister's Cabinet Office",
+      "legend":"The ministry responsible for aiding the PM and communications. It is also the center of the state propaganda. Several press releases and pre-written articles are sent out from here to the other outlets all over the country, that the editorials are required to publish, often in unaltered forms. That leads to several different papers publishing essentially the same articles, that contain government propaganda, and didactic, unmeasured praise of Fidesz and Orban.",
+      "leader":"Antal Rogan",
+      "type":"input",
+      "to":["Mediaworks", "MTVA","Modern Media"]
+    }
+  },
+  "leaderlegend":{
+  }
+}

@@ -1,0 +1,71 @@
+.Medbox{
+  outline: none;
+  border: none;
+  display: block;
+  margin: auto;
+}
+.lit{
+	background-color: blue;
+}
+.Medbox:hover{
+  cursor: pointer;
+}
+.outlet{
+  padding: 7px;
+  color: black;
+  background-color: rgb(180,180,180);
+  font-size: 12px;
+}
+.outletlit{
+  padding: 7px;
+  color: black;
+  background-color: orange;
+  font-size: 12px;
+}
+.outlet:hover{
+  background-color: orange;
+  color: black;
+
+}
+.publisher{
+padding: 10px;
+color: white;
+background-color: rgb(120,120,120);
+font-size: 16px;
+width: 100px;
+height: 70px;
+}
+.publisherlit{
+padding: 10px;
+color: white;
+background-color: orange;
+font-size: 16px;
+width: 100px;
+height: 70px;
+}
+.publisher:hover{
+  background-color: orange;
+  color: black;
+}
+.input{
+padding: 15px;
+color: white;
+background-color: rgb(70,70,70);
+font-size: 18px;
+width: 150px;
+height: 90px;
+
+}
+.inputlit{
+padding: 15px;
+color: white;
+background-color: orange;
+font-size: 18px;
+width: 150px;
+height: 90px;
+
+}
+.input:hover{
+  background-color: orange;
+  color: black;
+}

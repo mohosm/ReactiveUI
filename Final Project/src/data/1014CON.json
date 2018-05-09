@@ -1,0 +1,2796 @@
+{"meta":{
+  "total": 558
+},
+"speeches":{
+  "1": {
+    "day": 2,
+    "numb": 2,
+    "party": "Fidesz"
+  },
+  "2": {
+    "day": 2,
+    "numb": 4,
+    "party": "Fidesz"
+  },
+  "3": {
+    "day": 2,
+    "numb": 10,
+    "party": "Jobbik"
+  },
+  "4": {
+    "day": 2,
+    "numb": 14,
+    "party": "Fidesz"
+  },
+  "5": {
+    "day": 2,
+    "numb": 16,
+    "party": "MSZP"
+  },
+  "6": {
+    "day": 2,
+    "numb": 20,
+    "party": "KDNP"
+  },
+  "7": {
+    "day": 2,
+    "numb": 25,
+    "party": "Jobbik"
+  },
+  "8": {
+    "day": 2,
+    "numb": 29,
+    "party": "LMP"
+  },
+  "9": {
+    "day": 2,
+    "numb": 37,
+    "party": "LMP"
+  },
+  "10": {
+    "day": 2,
+    "numb": 45,
+    "party": "LMP"
+  },
+  "11": {
+    "day": 2,
+    "numb": 49,
+    "party": "Jobbik"
+  },
+  "12": {
+    "day": 2,
+    "numb": 53,
+    "party": "MSZP"
+  },
+  "13": {
+    "day": 2,
+    "numb": 60,
+    "party": "Jobbik"
+  },
+  "14": {
+    "day": 2,
+    "numb": 74,
+    "party": "MSZP"
+  },
+  "15": {
+    "day": 2,
+    "numb": 90,
+    "party": "Jobbik"
+  },
+  "16": {
+    "day": 2,
+    "numb": 111,
+    "party": "Jobbik"
+  },
+  "17": {
+    "day": 3,
+    "numb": 2,
+    "party": "Jobbik"
+  },
+  "18": {
+    "day": 4,
+    "numb": 12,
+    "party": "Fidesz"
+  },
+  "19": {
+    "day": 4,
+    "numb": 13,
+    "party": "Fidesz"
+  },
+  "20": {
+    "day": 4,
+    "numb": 28,
+    "party": "Fidesz"
+  },
+  "21": {
+    "day": 4,
+    "numb": 49,
+    "party": "MSZP"
+  },
+  "22": {
+    "day": 5,
+    "numb": 116,
+    "party": "MSZP"
+  },
+  "23": {
+    "day": 6,
+    "numb": 31,
+    "party": "MSZP"
+  },
+  "24": {
+    "day": 6,
+    "numb": 35,
+    "party": "Jobbik"
+  },
+  "25": {
+    "day": 6,
+    "numb": 43,
+    "party": "Fidesz"
+  },
+  "26": {
+    "day": 6,
+    "numb": 45,
+    "party": "Fidesz"
+  },
+  "27": {
+    "day": 6,
+    "numb": 181,
+    "party": "MSZP"
+  },
+  "28": {
+    "day": 6,
+    "numb": 205,
+    "party": "MSZP"
+  },
+  "29": {
+    "day": 7,
+    "numb": 332,
+    "party": "Fidesz"
+  },
+  "30": {
+    "day": 9,
+    "numb": 99,
+    "party": "Jobbik"
+  },
+  "31": {
+    "day": 9,
+    "numb": 109,
+    "party": "Jobbik"
+  },
+  "32": {
+    "day": 9,
+    "numb": 115,
+    "party": "LMP"
+  },
+  "33": {
+    "day": 10,
+    "numb": 22,
+    "party": "Fidesz"
+  },
+  "34": {
+    "day": 10,
+    "numb": 24,
+    "party": "MSZP"
+  },
+  "35": {
+    "day": 10,
+    "numb": 26,
+    "party": "Fidesz"
+  },
+  "36": {
+    "day": 10,
+    "numb": 30,
+    "party": "Fidesz7"
+  },
+  "37": {
+    "day": 10,
+    "numb": 36,
+    "party": "Jobbik"
+  },
+  "38": {
+    "day": 10,
+    "numb": 108,
+    "party": "Jobbik"
+  },
+  "39": {
+    "day": 10,
+    "numb": 112,
+    "party": "MSZP"
+  },
+  "40": {
+    "day": 10,
+    "numb": 295,
+    "party": "MSZP"
+  },
+  "41": {
+    "day": 12,
+    "numb": 200,
+    "party": "Fidesz"
+  },
+  "42": {
+    "day": 12,
+    "numb": 208,
+    "party": "KDNP"
+  },
+  "43": {
+    "day": 12,
+    "numb": 210,
+    "party": "Jobbik"
+  },
+  "44": {
+    "day": 12,
+    "numb": 214,
+    "party": "MSZP"
+  },
+  "45": {
+    "day": 12,
+    "numb": 216,
+    "party": "Jobbik"
+  },
+  "46": {
+    "day": 12,
+    "numb": 220,
+    "party": "MSZP"
+  },
+  "47": {
+    "day": 12,
+    "numb": 224,
+    "party": "KDNP"
+  },
+  "48": {
+    "day": 12,
+    "numb": 236,
+    "party": "Jobbik"
+  },
+  "49": {
+    "day": 12,
+    "numb": 250,
+    "party": "Jobbik"
+  },
+  "50": {
+    "day": 12,
+    "numb": 256,
+    "party": "KDNP"
+  },
+  "51": {
+    "day": 12,
+    "numb": 264,
+    "party": "Jobbik"
+  },
+  "52": {
+    "day": 12,
+    "numb": 266,
+    "party": "LMP"
+  },
+  "53": {
+    "day": 12,
+    "numb": 346,
+    "party": "MSZP"
+  },
+  "54": {
+    "day": 13,
+    "numb": 53,
+    "party": "Jobbik"
+  },
+  "55": {
+    "day": 13,
+    "numb": 63,
+    "party": "Jobbik"
+  },
+  "56": {
+    "day": 13,
+    "numb": 65,
+    "party": "KDNP"
+  },
+  "57": {
+    "day": 13,
+    "numb": 69,
+    "party": "MSZP"
+  },
+  "58": {
+    "day": 13,
+    "numb": 81,
+    "party": "MSZP"
+  },
+  "59": {
+    "day": 14,
+    "numb": 10,
+    "party": "LMP"
+  },
+  "60": {
+    "day": 14,
+    "numb": 293,
+    "party": "Fidesz"
+  },
+  "61": {
+    "day": 14,
+    "numb": 309,
+    "party": "MSZP"
+  },
+  "62": {
+    "day": 14,
+    "numb": 313,
+    "party": "Jobbik"
+  },
+  "63": {
+    "day": 14,
+    "numb": 315,
+    "party": "LMP"
+  },
+  "64": {
+    "day": 14,
+    "numb": 319,
+    "party": "Jobbik"
+  },
+  "65": {
+    "day": 14,
+    "numb": 327,
+    "party": "Jobbik"
+  },
+  "66": {
+    "day": 14,
+    "numb": 329,
+    "party": "LMP"
+  },
+  "67": {
+    "day": 14,
+    "numb": 333,
+    "party": "Jobbik"
+  },
+  "68": {
+    "day": 14,
+    "numb": 341,
+    "party": "Jobbik"
+  },
+  "69": {
+    "day": 14,
+    "numb": 347,
+    "party": "LMP"
+  },
+  "70": {
+    "day": 14,
+    "numb": 363,
+    "party": "Jobbik"
+  },
+  "71": {
+    "day": 14,
+    "numb": 365,
+    "party": "Jobbik"
+  },
+  "72": {
+    "day": 15,
+    "numb": 164,
+    "party": "LMP"
+  },
+  "73": {
+    "day": 15,
+    "numb": 166,
+    "party": "MSZP"
+  },
+  "74": {
+    "day": 15,
+    "numb": 168,
+    "party": "Jobbik"
+  },
+  "75": {
+    "day": 15,
+    "numb": 232,
+    "party": "Fidesz"
+  },
+  "76": {
+    "day": 15,
+    "numb": 464,
+    "party": "Jobbik"
+  },
+  "77": {
+    "day": 16,
+    "numb": 102,
+    "party": "Fidesz"
+  },
+  "78": {
+    "day": 16,
+    "numb": 154,
+    "party": "LMP"
+  },
+  "79": {
+    "day": 17,
+    "numb": 192,
+    "party": "Jobbik"
+  },
+  "80": {
+    "day": 18,
+    "numb": 226,
+    "party": "Jobbik"
+  },
+  "81": {
+    "day": 18,
+    "numb": 228,
+    "party": "Jobbik"
+  },
+  "82": {
+    "day": 18,
+    "numb": 236,
+    "party": "MSZP"
+  },
+  "83": {
+    "day": 18,
+    "numb": 238,
+    "party": "KDNP"
+  },
+  "84": {
+    "day": 18,
+    "numb": 240,
+    "party": "LMP"
+  },
+  "85": {
+    "day": 18,
+    "numb": 252,
+    "party": "KDNP"
+  },
+  "86": {
+    "day": 19,
+    "numb": 30,
+    "party": "LMP"
+  },
+  "87": {
+    "day": 19,
+    "numb": 34,
+    "party": "LMP"
+  },
+  "88": {
+    "day": 19,
+    "numb": 36,
+    "party": "MSZP"
+  },
+  "89": {
+    "day": 19,
+    "numb": 54,
+    "party": "Jobbik"
+  },
+  "90": {
+    "day": 19,
+    "numb": 68,
+    "party": "Jobbik"
+  },
+  "91": {
+    "day": 19,
+    "numb": 82,
+    "party": "Jobbik"
+  },
+  "92": {
+    "day": 20,
+    "numb": 60,
+    "party": "MSZP"
+  },
+  "93": {
+    "day": 20,
+    "numb": 82,
+    "party": "Jobbik"
+  },
+  "94": {
+    "day": 21,
+    "numb": 202,
+    "party": "Fidesz"
+  },
+  "95": {
+    "day": 21,
+    "numb": 206,
+    "party": "MSZP"
+  },
+  "96": {
+    "day": 21,
+    "numb": 208,
+    "party": "Jobbik"
+  },
+  "97": {
+    "day": 21,
+    "numb": 210,
+    "party": "KDNP"
+  },
+  "98": {
+    "day": 21,
+    "numb": 212,
+    "party": "MSZP"
+  },
+  "99": {
+    "day": 21,
+    "numb": 234,
+    "party": "Jobbik"
+  },
+  "100": {
+    "day": 21,
+    "numb": 240,
+    "party": "Fidesz"
+  },
+  "101": {
+    "day": 21,
+    "numb": 244,
+    "party": "KDNP"
+  },
+  "102": {
+    "day": 21,
+    "numb": 246,
+    "party": "Jobbik"
+  },
+  "103": {
+    "day": 21,
+    "numb": 250,
+    "party": "Jobbik"
+  },
+  "104": {
+    "day": 21,
+    "numb": 252,
+    "party": "Jobbik"
+  },
+  "105": {
+    "day": 21,
+    "numb": 254,
+    "party": "LMP"
+  },
+  "106": {
+    "day": 21,
+    "numb": 256,
+    "party": "Jobbik"
+  },
+  "107": {
+    "day": 21,
+    "numb": 258,
+    "party": "Fidesz"
+  },
+  "108": {
+    "day": 21,
+    "numb": 264,
+    "party": "Fidesz"
+  },
+  "109": {
+    "day": 21,
+    "numb": 266,
+    "party": "Fidesz"
+  },
+  "110": {
+    "day": 21,
+    "numb": 268,
+    "party": "Fidesz"
+  },
+  "111": {
+    "day": 21,
+    "numb": 308,
+    "party": "Fidesz"
+  },
+  "112": {
+    "day": 22,
+    "numb": 12,
+    "party": "MSZP"
+  },
+  "113": {
+    "day": 22,
+    "numb": 28,
+    "party": "Fidesz"
+  },
+  "114": {
+    "day": 22,
+    "numb": 30,
+    "party": "MSZP"
+  },
+  "115": {
+    "day": 22,
+    "numb": 48,
+    "party": "MSZP"
+  },
+  "116": {
+    "day": 22,
+    "numb": 234,
+    "party": "Jobbik"
+  },
+  "117": {
+    "day": 22,
+    "numb": 297,
+    "party": "MSZP"
+  },
+  "118": {
+    "day": 22,
+    "numb": 306,
+    "party": "KDNP"
+  },
+  "119": {
+    "day": 24,
+    "numb": 42,
+    "party": "Jobbik"
+  },
+  "120": {
+    "day": 24,
+    "numb": 46,
+    "party": "MSZP"
+  },
+  "121": {
+    "day": 24,
+    "numb": 315,
+    "party": "Jobbik"
+  },
+  "122": {
+    "day": 25,
+    "numb": 153,
+    "party": "Fidesz"
+  },
+  "123": {
+    "day": 25,
+    "numb": 155,
+    "party": "KDNP"
+  },
+  "124": {
+    "day": 25,
+    "numb": 159,
+    "party": "MSZP"
+  },
+  "125": {
+    "day": 25,
+    "numb": 163,
+    "party": "Fidesz"
+  },
+  "126": {
+    "day": 25,
+    "numb": 165,
+    "party": "MSZP"
+  },
+  "127": {
+    "day": 25,
+    "numb": 177,
+    "party": "MSZP"
+  },
+  "128": {
+    "day": 25,
+    "numb": 179,
+    "party": "Jobbik"
+  },
+  "129": {
+    "day": 25,
+    "numb": 181,
+    "party": "LMP5"
+  },
+  "130": {
+    "day": 25,
+    "numb": 187,
+    "party": "Jobbik"
+  },
+  "131": {
+    "day": 25,
+    "numb": 193,
+    "party": "MSZP"
+  },
+  "132": {
+    "day": 25,
+    "numb": 195,
+    "party": "LMP"
+  },
+  "133": {
+    "day": 25,
+    "numb": 197,
+    "party": "LMP"
+  },
+  "134": {
+    "day": 25,
+    "numb": 199,
+    "party": "Jobbik"
+  },
+  "135": {
+    "day": 25,
+    "numb": 201,
+    "party": "Jobbik"
+  },
+  "136": {
+    "day": 25,
+    "numb": 203,
+    "party": "MSZP"
+  },
+  "137": {
+    "day": 25,
+    "numb": 205,
+    "party": "Jobbik"
+  },
+  "138": {
+    "day": 25,
+    "numb": 211,
+    "party": "Fidesz"
+  },
+  "139": {
+    "day": 25,
+    "numb": 213,
+    "party": "Fidesz"
+  },
+  "140": {
+    "day": 25,
+    "numb": 219,
+    "party": "LMP"
+  },
+  "141": {
+    "day": 25,
+    "numb": 221,
+    "party": "Jobbik"
+  },
+  "142": {
+    "day": 25,
+    "numb": 223,
+    "party": "MSZP"
+  },
+  "143": {
+    "day": 25,
+    "numb": 227,
+    "party": "Jobbik"
+  },
+  "144": {
+    "day": 25,
+    "numb": 231,
+    "party": "Jobbik"
+  },
+  "145": {
+    "day": 25,
+    "numb": 235,
+    "party": "Fidesz"
+  },
+  "146": {
+    "day": 26,
+    "numb": 42,
+    "party": "MSZP"
+  },
+  "147": {
+    "day": 26,
+    "numb": 80,
+    "party": "MSZP"
+  },
+  "148": {
+    "day": 26,
+    "numb": 82,
+    "party": "Fidesz"
+  },
+  "149": {
+    "day": 26,
+    "numb": 209,
+    "party": "LMP"
+  },
+  "150": {
+    "day": 26,
+    "numb": 221,
+    "party": "Jobbik"
+  },
+  "151": {
+    "day": 26,
+    "numb": 282,
+    "party": "MSZP"
+  },
+  "152": {
+    "day": 26,
+    "numb": 286,
+    "party": "MSZP"
+  },
+  "153": {
+    "day": 26,
+    "numb": 300,
+    "party": "LMP"
+  },
+  "154": {
+    "day": 26,
+    "numb": 306,
+    "party": "Fidesz"
+  },
+  "155": {
+    "day": 27,
+    "numb": 44,
+    "party": "MSZP"
+  },
+  "156": {
+    "day": 27,
+    "numb": 52,
+    "party": "LMP"
+  },
+  "157": {
+    "day": 27,
+    "numb": 78,
+    "party": "Fidesz"
+  },
+  "158": {
+    "day": 28,
+    "numb": 4,
+    "party": "LMP"
+  },
+  "159": {
+    "day": 28,
+    "numb": 21,
+    "party": "LMP"
+  },
+  "160": {
+    "day": 28,
+    "numb": 83,
+    "party": "LMP"
+  },
+  "161": {
+    "day": 28,
+    "numb": 85,
+    "party": "Jobbik"
+  },
+  "162": {
+    "day": 29,
+    "numb": 6,
+    "party": "Fidesz"
+  },
+  "163": {
+    "day": 29,
+    "numb": 14,
+    "party": "KDNP"
+  },
+  "164": {
+    "day": 29,
+    "numb": 145,
+    "party": "KDNP"
+  },
+  "165": {
+    "day": 31,
+    "numb": 92,
+    "party": "Fidesz"
+  },
+  "166": {
+    "day": 31,
+    "numb": 112,
+    "party": "Jobbik"
+  },
+  "167": {
+    "day": 31,
+    "numb": 146,
+    "party": "MSZP"
+  },
+  "168": {
+    "day": 33,
+    "numb": 324,
+    "party": "MSZP"
+  },
+  "169": {
+    "day": 33,
+    "numb": 368,
+    "party": "LMP"
+  },
+  "170": {
+    "day": 33,
+    "numb": 372,
+    "party": "MSZP"
+  },
+  "171": {
+    "day": 34,
+    "numb": 22,
+    "party": "Jobbik"
+  },
+  "172": {
+    "day": 34,
+    "numb": 24,
+    "party": "LMP"
+  },
+  "173": {
+    "day": 34,
+    "numb": 26,
+    "party": "Fidesz"
+  },
+  "174": {
+    "day": 34,
+    "numb": 28,
+    "party": "MSZP8"
+  },
+  "175": {
+    "day": 34,
+    "numb": 30,
+    "party": "Jobbik"
+  },
+  "176": {
+    "day": 34,
+    "numb": 32,
+    "party": "LMP"
+  },
+  "177": {
+    "day": 34,
+    "numb": 34,
+    "party": "LMP"
+  },
+  "178": {
+    "day": 34,
+    "numb": 62,
+    "party": "KDNP"
+  },
+  "179": {
+    "day": 36,
+    "numb": 36,
+    "party": "LMP7"
+  },
+  "180": {
+    "day": 36,
+    "numb": 120,
+    "party": "Fidesz"
+  },
+  "181": {
+    "day": 36,
+    "numb": 134,
+    "party": "LMP"
+  },
+  "182": {
+    "day": 36,
+    "numb": 146,
+    "party": "LMP"
+  },
+  "183": {
+    "day": 36,
+    "numb": 148,
+    "party": "Fidesz"
+  },
+  "184": {
+    "day": 38,
+    "numb": 265,
+    "party": "LMP"
+  },
+  "185": {
+    "day": 38,
+    "numb": 297,
+    "party": "Jobbik"
+  },
+  "186": {
+    "day": 39,
+    "numb": 198,
+    "party": "MSZP"
+  },
+  "187": {
+    "day": 40,
+    "numb": 38,
+    "party": "MSZP"
+  },
+  "188": {
+    "day": 40,
+    "numb": 56,
+    "party": "Fidesz"
+  },
+  "189": {
+    "day": 40,
+    "numb": 66,
+    "party": "Jobbik"
+  },
+  "190": {
+    "day": 40,
+    "numb": 68,
+    "party": "LMP"
+  },
+  "191": {
+    "day": 40,
+    "numb": 84,
+    "party": "MSZP"
+  },
+  "192": {
+    "day": 40,
+    "numb": 96,
+    "party": "Fidesz"
+  },
+  "193": {
+    "day": 40,
+    "numb": 102,
+    "party": "MSZP"
+  },
+  "194": {
+    "day": 40,
+    "numb": 116,
+    "party": "Fidesz"
+  },
+  "195": {
+    "day": 40,
+    "numb": 126,
+    "party": "Fidesz"
+  },
+  "196": {
+    "day": 40,
+    "numb": 144,
+    "party": "Jobbik"
+  },
+  "197": {
+    "day": 41,
+    "numb": 16,
+    "party": "KDNP"
+  },
+  "198": {
+    "day": 41,
+    "numb": 199,
+    "party": "Fidesz"
+  },
+  "199": {
+    "day": 41,
+    "numb": 203,
+    "party": "Jobbik"
+  },
+  "200": {
+    "day": 41,
+    "numb": 211,
+    "party": "Jobbik"
+  },
+  "201": {
+    "day": 41,
+    "numb": 213,
+    "party": "LMP"
+  },
+  "202": {
+    "day": 41,
+    "numb": 219,
+    "party": "MSZP"
+  },
+  "203": {
+    "day": 41,
+    "numb": 229,
+    "party": "LMP"
+  },
+  "204": {
+    "day": 41,
+    "numb": 235,
+    "party": "MSZP"
+  },
+  "205": {
+    "day": 41,
+    "numb": 285,
+    "party": "LMP"
+  },
+  "206": {
+    "day": 41,
+    "numb": 307,
+    "party": "LMP"
+  },
+  "207": {
+    "day": 41,
+    "numb": 325,
+    "party": "MSZP"
+  },
+  "208": {
+    "day": 41,
+    "numb": 339,
+    "party": "MSZP"
+  },
+  "209": {
+    "day": 41,
+    "numb": 343,
+    "party": "Jobbik"
+  },
+  "210": {
+    "day": 41,
+    "numb": 351,
+    "party": "LMP"
+  },
+  "211": {
+    "day": 41,
+    "numb": 365,
+    "party": "Fidesz"
+  },
+  "212": {
+    "day": 42,
+    "numb": 49,
+    "party": "LMP"
+  },
+  "213": {
+    "day": 42,
+    "numb": 53,
+    "party": "Jobbik"
+  },
+  "214": {
+    "day": 42,
+    "numb": 61,
+    "party": "Fidesz"
+  },
+  "215": {
+    "day": 42,
+    "numb": 63,
+    "party": "MSZP"
+  },
+  "216": {
+    "day": 44,
+    "numb": 34,
+    "party": "KDNP"
+  },
+  "217": {
+    "day": 45,
+    "numb": 12,
+    "party": "LMP"
+  },
+  "218": {
+    "day": 47,
+    "numb": 25,
+    "party": "LMP"
+  },
+  "219": {
+    "day": 47,
+    "numb": 29,
+    "party": "Jobbik"
+  },
+  "220": {
+    "day": 47,
+    "numb": 31,
+    "party": "KDNP"
+  },
+  "221": {
+    "day": 47,
+    "numb": 33,
+    "party": "Jobbik"
+  },
+  "222": {
+    "day": 47,
+    "numb": 35,
+    "party": "MSZP"
+  },
+  "223": {
+    "day": 47,
+    "numb": 37,
+    "party": "Jobbik"
+  },
+  "224": {
+    "day": 47,
+    "numb": 39,
+    "party": "MSZP"
+  },
+  "225": {
+    "day": 47,
+    "numb": 45,
+    "party": "Jobbik"
+  },
+  "226": {
+    "day": 47,
+    "numb": 51,
+    "party": "Jobbik"
+  },
+  "227": {
+    "day": 47,
+    "numb": 69,
+    "party": "Fidesz"
+  },
+  "228": {
+    "day": 47,
+    "numb": 84,
+    "party": "Jobbik"
+  },
+  "229": {
+    "day": 47,
+    "numb": 288,
+    "party": "MSZP"
+  },
+  "230": {
+    "day": 47,
+    "numb": 336,
+    "party": "MSZP"
+  },
+  "231": {
+    "day": 47,
+    "numb": 348,
+    "party": "Jobbik"
+  },
+  "232": {
+    "day": 47,
+    "numb": 354,
+    "party": "Jobbik"
+  },
+  "233": {
+    "day": 49,
+    "numb": 234,
+    "party": "MSZP"
+  },
+  "234": {
+    "day": 50,
+    "numb": 110,
+    "party": "MSZP"
+  },
+  "235": {
+    "day": 50,
+    "numb": 114,
+    "party": "MSZP"
+  },
+  "236": {
+    "day": 50,
+    "numb": 124,
+    "party": "Jobbik"
+  },
+  "237": {
+    "day": 50,
+    "numb": 175,
+    "party": "Jobbik"
+  },
+  "238": {
+    "day": 50,
+    "numb": 177,
+    "party": "LMP"
+  },
+  "239": {
+    "day": 52,
+    "numb": 10,
+    "party": "MSZP"
+  },
+  "240": {
+    "day": 55,
+    "numb": 182,
+    "party": "LMP"
+  },
+  "241": {
+    "day": 55,
+    "numb": 198,
+    "party": "Jobbik"
+  },
+  "242": {
+    "day": 55,
+    "numb": 322,
+    "party": "MSZP"
+  },
+  "243": {
+    "day": 56,
+    "numb": 26,
+    "party": "MSZP"
+  },
+  "244": {
+    "day": 57,
+    "numb": 507,
+    "party": "KDNP"
+  },
+  "245": {
+    "day": 59,
+    "numb": 12,
+    "party": "MSZP"
+  },
+  "246": {
+    "day": 59,
+    "numb": 330,
+    "party": "Fidesz3"
+  },
+  "247": {
+    "day": 59,
+    "numb": 332,
+    "party": "Jobbik"
+  },
+  "248": {
+    "day": 59,
+    "numb": 334,
+    "party": "MSZP"
+  },
+  "249": {
+    "day": 59,
+    "numb": 336,
+    "party": "LMP"
+  },
+  "250": {
+    "day": 59,
+    "numb": 338,
+    "party": "MSZP"
+  },
+  "251": {
+    "day": 59,
+    "numb": 346,
+    "party": "MSZP"
+  },
+  "252": {
+    "day": 59,
+    "numb": 348,
+    "party": "LMP"
+  },
+  "253": {
+    "day": 59,
+    "numb": 350,
+    "party": "MSZP"
+  },
+  "254": {
+    "day": 59,
+    "numb": 354,
+    "party": "Fidesz"
+  },
+  "255": {
+    "day": 59,
+    "numb": 356,
+    "party": "Fidesz"
+  },
+  "256": {
+    "day": 60,
+    "numb": 54,
+    "party": "MSZP"
+  },
+  "257": {
+    "day": 60,
+    "numb": 361,
+    "party": "KDNP"
+  },
+  "258": {
+    "day": 60,
+    "numb": 461,
+    "party": "MSZP"
+  },
+  "259": {
+    "day": 61,
+    "numb": 248,
+    "party": "MSZP"
+  },
+  "260": {
+    "day": 61,
+    "numb": 325,
+    "party": "LMP"
+  },
+  "261": {
+    "day": 62,
+    "numb": 10,
+    "party": "MSZP"
+  },
+  "262": {
+    "day": 64,
+    "numb": 110,
+    "party": "MSZP"
+  },
+  "263": {
+    "day": 64,
+    "numb": 301,
+    "party": "independent"
+  },
+  "264": {
+    "day": 65,
+    "numb": 18,
+    "party": "KDNP7"
+  },
+  "265": {
+    "day": 65,
+    "numb": 22,
+    "party": "Jobbik"
+  },
+  "266": {
+    "day": 65,
+    "numb": 26,
+    "party": "Fidesz"
+  },
+  "267": {
+    "day": 65,
+    "numb": 38,
+    "party": "LMP"
+  },
+  "268": {
+    "day": 65,
+    "numb": 48,
+    "party": "Fidesz"
+  },
+  "269": {
+    "day": 65,
+    "numb": 50,
+    "party": "Fidesz"
+  },
+  "270": {
+    "day": 67,
+    "numb": 30,
+    "party": "Jobbik"
+  },
+  "271": {
+    "day": 67,
+    "numb": 52,
+    "party": "Jobbik"
+  },
+  "272": {
+    "day": 67,
+    "numb": 108,
+    "party": "Fidesz"
+  },
+  "273": {
+    "day": 67,
+    "numb": 118,
+    "party": "Jobbik"
+  },
+  "274": {
+    "day": 68,
+    "numb": 197,
+    "party": "LMP"
+  },
+  "275": {
+    "day": 69,
+    "numb": 80,
+    "party": "MSZP"
+  },
+  "276": {
+    "day": 69,
+    "numb": 184,
+    "party": "Jobbik"
+  },
+  "277": {
+    "day": 71,
+    "numb": 46,
+    "party": "LMP7"
+  },
+  "278": {
+    "day": 71,
+    "numb": 176,
+    "party": "MSZP"
+  },
+  "279": {
+    "day": 72,
+    "numb": 46,
+    "party": "MSZP"
+  },
+  "280": {
+    "day": 72,
+    "numb": 238,
+    "party": "MSZP"
+  },
+  "281": {
+    "day": 76,
+    "numb": 31,
+    "party": "independent"
+  },
+  "282": {
+    "day": 76,
+    "numb": 59,
+    "party": "KDNP"
+  },
+  "283": {
+    "day": 79,
+    "numb": 22,
+    "party": "Fidesz"
+  },
+  "284": {
+    "day": 79,
+    "numb": 82,
+    "party": "Jobbik"
+  },
+  "285": {
+    "day": 80,
+    "numb": 212,
+    "party": "Fidesz"
+  },
+  "286": {
+    "day": 80,
+    "numb": 214,
+    "party": "MSZP"
+  },
+  "287": {
+    "day": 80,
+    "numb": 220,
+    "party": "MSZP"
+  },
+  "288": {
+    "day": 80,
+    "numb": 270,
+    "party": "MSZP"
+  },
+  "289": {
+    "day": 80,
+    "numb": 272,
+    "party": "Fidesz"
+  },
+  "290": {
+    "day": 81,
+    "numb": 30,
+    "party": "Fidesz"
+  },
+  "291": {
+    "day": 81,
+    "numb": 56,
+    "party": "Jobbik"
+  },
+  "292": {
+    "day": 82,
+    "numb": 48,
+    "party": "KDNP"
+  },
+  "293": {
+    "day": 83,
+    "numb": 22,
+    "party": "MSZP"
+  },
+  "294": {
+    "day": 84,
+    "numb": 154,
+    "party": "Jobbik"
+  },
+  "295": {
+    "day": 85,
+    "numb": 225,
+    "party": "MSZP"
+  },
+  "296": {
+    "day": 88,
+    "numb": 68,
+    "party": "LMP"
+  },
+  "297": {
+    "day": 89,
+    "numb": 217,
+    "party": "MSZP"
+  },
+  "298": {
+    "day": 91,
+    "numb": 92,
+    "party": "MSZP"
+  },
+  "299": {
+    "day": 91,
+    "numb": 98,
+    "party": "Jobbik"
+  },
+  "300": {
+    "day": 92,
+    "numb": 66,
+    "party": "Fidesz"
+  },
+  "301": {
+    "day": 92,
+    "numb": 68,
+    "party": "KDNP5"
+  },
+  "302": {
+    "day": 92,
+    "numb": 72,
+    "party": "Jobbik"
+  },
+  "303": {
+    "day": 92,
+    "numb": 76,
+    "party": "Fidesz"
+  },
+  "304": {
+    "day": 92,
+    "numb": 78,
+    "party": "Fidesz"
+  },
+  "305": {
+    "day": 92,
+    "numb": 80,
+    "party": "Fidesz"
+  },
+  "306": {
+    "day": 92,
+    "numb": 82,
+    "party": "MSZP"
+  },
+  "307": {
+    "day": 92,
+    "numb": 84,
+    "party": "MSZP"
+  },
+  "308": {
+    "day": 92,
+    "numb": 86,
+    "party": "MSZP"
+  },
+  "309": {
+    "day": 92,
+    "numb": 88,
+    "party": "MSZP"
+  },
+  "310": {
+    "day": 92,
+    "numb": 90,
+    "party": "KDNP"
+  },
+  "311": {
+    "day": 92,
+    "numb": 98,
+    "party": "LMP"
+  },
+  "312": {
+    "day": 92,
+    "numb": 100,
+    "party": "LMP"
+  },
+  "313": {
+    "day": 92,
+    "numb": 102,
+    "party": "LMP"
+  },
+  "314": {
+    "day": 92,
+    "numb": 116,
+    "party": "MSZP"
+  },
+  "315": {
+    "day": 92,
+    "numb": 128,
+    "party": "MSZP"
+  },
+  "316": {
+    "day": 92,
+    "numb": 134,
+    "party": "MSZP"
+  },
+  "317": {
+    "day": 92,
+    "numb": 172,
+    "party": "Fidesz"
+  },
+  "318": {
+    "day": 92,
+    "numb": 180,
+    "party": "MSZP"
+  },
+  "319": {
+    "day": 92,
+    "numb": 208,
+    "party": "Jobbik"
+  },
+  "320": {
+    "day": 92,
+    "numb": 212,
+    "party": "Jobbik"
+  },
+  "321": {
+    "day": 92,
+    "numb": 220,
+    "party": "Jobbik"
+  },
+  "322": {
+    "day": 92,
+    "numb": 222,
+    "party": "MSZP"
+  },
+  "323": {
+    "day": 92,
+    "numb": 224,
+    "party": "Jobbik"
+  },
+  "324": {
+    "day": 92,
+    "numb": 251,
+    "party": "Jobbik"
+  },
+  "325": {
+    "day": 92,
+    "numb": 272,
+    "party": "MSZP"
+  },
+  "326": {
+    "day": 92,
+    "numb": 288,
+    "party": "LMP"
+  },
+  "327": {
+    "day": 92,
+    "numb": 292,
+    "party": "LMP"
+  },
+  "328": {
+    "day": 92,
+    "numb": 300,
+    "party": "KDNP"
+  },
+  "329": {
+    "day": 92,
+    "numb": 310,
+    "party": "MSZP"
+  },
+  "330": {
+    "day": 92,
+    "numb": 320,
+    "party": "MSZP"
+  },
+  "331": {
+    "day": 92,
+    "numb": 330,
+    "party": "MSZP"
+  },
+  "332": {
+    "day": 92,
+    "numb": 332,
+    "party": "Jobbik"
+  },
+  "333": {
+    "day": 92,
+    "numb": 336,
+    "party": "Fidesz"
+  },
+  "334": {
+    "day": 92,
+    "numb": 368,
+    "party": "KDNP"
+  },
+  "335": {
+    "day": 92,
+    "numb": 370,
+    "party": "MSZP"
+  },
+  "336": {
+    "day": 92,
+    "numb": 372,
+    "party": "MSZP"
+  },
+  "337": {
+    "day": 92,
+    "numb": 374,
+    "party": "KDNP"
+  },
+  "338": {
+    "day": 92,
+    "numb": 392,
+    "party": "MSZP"
+  },
+  "339": {
+    "day": 92,
+    "numb": 396,
+    "party": "MSZP"
+  },
+  "340": {
+    "day": 92,
+    "numb": 400,
+    "party": "LMP"
+  },
+  "341": {
+    "day": 92,
+    "numb": 404,
+    "party": "Fidesz"
+  },
+  "342": {
+    "day": 93,
+    "numb": 18,
+    "party": "MSZP"
+  },
+  "343": {
+    "day": 93,
+    "numb": 158,
+    "party": "Fidesz"
+  },
+  "344": {
+    "day": 94,
+    "numb": 244,
+    "party": "Fidesz"
+  },
+  "345": {
+    "day": 94,
+    "numb": 268,
+    "party": "MSZP"
+  },
+  "346": {
+    "day": 94,
+    "numb": 270,
+    "party": "Fidesz"
+  },
+  "347": {
+    "day": 94,
+    "numb": 282,
+    "party": "Fidesz"
+  },
+  "348": {
+    "day": 94,
+    "numb": 298,
+    "party": "Fidesz"
+  },
+  "349": {
+    "day": 94,
+    "numb": 324,
+    "party": "Jobbik"
+  },
+  "350": {
+    "day": 94,
+    "numb": 342,
+    "party": "Jobbik"
+  },
+  "351": {
+    "day": 94,
+    "numb": 358,
+    "party": "Jobbik"
+  },
+  "352": {
+    "day": 94,
+    "numb": 366,
+    "party": "MSZP"
+  },
+  "353": {
+    "day": 94,
+    "numb": 372,
+    "party": "MSZP"
+  },
+  "354": {
+    "day": 94,
+    "numb": 378,
+    "party": "Jobbik"
+  },
+  "355": {
+    "day": 94,
+    "numb": 384,
+    "party": "Jobbik"
+  },
+  "356": {
+    "day": 94,
+    "numb": 398,
+    "party": "Jobbik"
+  },
+  "357": {
+    "day": 94,
+    "numb": 412,
+    "party": "Jobbik"
+  },
+  "358": {
+    "day": 94,
+    "numb": 416,
+    "party": "Jobbik"
+  },
+  "359": {
+    "day": 95,
+    "numb": 27,
+    "party": "Fidesz"
+  },
+  "360": {
+    "day": 95,
+    "numb": 85,
+    "party": "Jobbik"
+  },
+  "361": {
+    "day": 95,
+    "numb": 231,
+    "party": "MSZP"
+  },
+  "362": {
+    "day": 95,
+    "numb": 264,
+    "party": "Fidesz"
+  },
+  "363": {
+    "day": 95,
+    "numb": 268,
+    "party": "MSZP"
+  },
+  "364": {
+    "day": 95,
+    "numb": 270,
+    "party": "MSZP"
+  },
+  "365": {
+    "day": 97,
+    "numb": 104,
+    "party": "MSZP"
+  },
+  "366": {
+    "day": 97,
+    "numb": 106,
+    "party": "MSZP"
+  },
+  "367": {
+    "day": 98,
+    "numb": 16,
+    "party": "LMP"
+  },
+  "368": {
+    "day": 98,
+    "numb": 493,
+    "party": "MSZP"
+  },
+  "369": {
+    "day": 99,
+    "numb": 20,
+    "party": "MSZP"
+  },
+  "370": {
+    "day": 102,
+    "numb": 258,
+    "party": "LMP"
+  },
+  "371": {
+    "day": 103,
+    "numb": 118,
+    "party": "Jobbik"
+  },
+  "372": {
+    "day": 103,
+    "numb": 152,
+    "party": "Jobbik"
+  },
+  "373": {
+    "day": 109,
+    "numb": 210,
+    "party": "MSZP"
+  },
+  "374": {
+    "day": 112,
+    "numb": 56,
+    "party": "Jobbik"
+  },
+  "375": {
+    "day": 113,
+    "numb": 46,
+    "party": "MSZP"
+  },
+  "376": {
+    "day": 113,
+    "numb": 399,
+    "party": "Jobbik"
+  },
+  "377": {
+    "day": 116,
+    "numb": 24,
+    "party": "Fidesz"
+  },
+  "378": {
+    "day": 116,
+    "numb": 30,
+    "party": "Fidesz"
+  },
+  "379": {
+    "day": 116,
+    "numb": 40,
+    "party": "Fidesz"
+  },
+  "380": {
+    "day": 118,
+    "numb": 22,
+    "party": "KDNP6"
+  },
+  "381": {
+    "day": 118,
+    "numb": 38,
+    "party": "Jobbik"
+  },
+  "382": {
+    "day": 118,
+    "numb": 40,
+    "party": "LMP"
+  },
+  "383": {
+    "day": 118,
+    "numb": 70,
+    "party": "LMP"
+  },
+  "384": {
+    "day": 118,
+    "numb": 82,
+    "party": "MSZP"
+  },
+  "385": {
+    "day": 118,
+    "numb": 100,
+    "party": "LMP"
+  },
+  "386": {
+    "day": 120,
+    "numb": 50,
+    "party": "MSZP"
+  },
+  "387": {
+    "day": 120,
+    "numb": 193,
+    "party": "Fidesz"
+  },
+  "388": {
+    "day": 120,
+    "numb": 195,
+    "party": "Fidesz"
+  },
+  "389": {
+    "day": 120,
+    "numb": 197,
+    "party": "Fidesz"
+  },
+  "390": {
+    "day": 120,
+    "numb": 199,
+    "party": "MSZP"
+  },
+  "391": {
+    "day": 120,
+    "numb": 201,
+    "party": "MSZP"
+  },
+  "392": {
+    "day": 120,
+    "numb": 209,
+    "party": "MSZP"
+  },
+  "393": {
+    "day": 120,
+    "numb": 211,
+    "party": "Jobbik"
+  },
+  "394": {
+    "day": 120,
+    "numb": 221,
+    "party": "MSZP"
+  },
+  "395": {
+    "day": 120,
+    "numb": 223,
+    "party": "MSZP"
+  },
+  "396": {
+    "day": 120,
+    "numb": 227,
+    "party": "KDNP8"
+  },
+  "397": {
+    "day": 120,
+    "numb": 229,
+    "party": "Jobbik"
+  },
+  "398": {
+    "day": 120,
+    "numb": 231,
+    "party": "Jobbik"
+  },
+  "399": {
+    "day": 120,
+    "numb": 235,
+    "party": "LMP"
+  },
+  "400": {
+    "day": 120,
+    "numb": 285,
+    "party": "MSZP"
+  },
+  "401": {
+    "day": 120,
+    "numb": 289,
+    "party": "Jobbik"
+  },
+  "402": {
+    "day": 120,
+    "numb": 303,
+    "party": "Jobbik"
+  },
+  "403": {
+    "day": 120,
+    "numb": 313,
+    "party": "Jobbik"
+  },
+  "404": {
+    "day": 120,
+    "numb": 321,
+    "party": "MSZP"
+  },
+  "405": {
+    "day": 120,
+    "numb": 323,
+    "party": "Fidesz"
+  },
+  "406": {
+    "day": 122,
+    "numb": 248,
+    "party": "MSZP"
+  },
+  "407": {
+    "day": 122,
+    "numb": 249,
+    "party": "Jobbik"
+  },
+  "408": {
+    "day": 122,
+    "numb": 251,
+    "party": "MSZP"
+  },
+  "409": {
+    "day": 122,
+    "numb": 253,
+    "party": "KDNP"
+  },
+  "410": {
+    "day": 122,
+    "numb": 255,
+    "party": "MSZP"
+  },
+  "411": {
+    "day": 122,
+    "numb": 261,
+    "party": "Jobbik"
+  },
+  "412": {
+    "day": 122,
+    "numb": 275,
+    "party": "MSZP"
+  },
+  "413": {
+    "day": 122,
+    "numb": 281,
+    "party": "Jobbik"
+  },
+  "414": {
+    "day": 122,
+    "numb": 283,
+    "party": "Jobbik"
+  },
+  "415": {
+    "day": 122,
+    "numb": 285,
+    "party": "Jobbik"
+  },
+  "416": {
+    "day": 122,
+    "numb": 287,
+    "party": "KDNP"
+  },
+  "417": {
+    "day": 122,
+    "numb": 289,
+    "party": "Jobbik"
+  },
+  "418": {
+    "day": 122,
+    "numb": 291,
+    "party": "Jobbik"
+  },
+  "419": {
+    "day": 122,
+    "numb": 293,
+    "party": "Fidesz"
+  },
+  "420": {
+    "day": 122,
+    "numb": 297,
+    "party": "MSZP"
+  },
+  "421": {
+    "day": 122,
+    "numb": 317,
+    "party": "MSZP"
+  },
+  "422": {
+    "day": 123,
+    "numb": 220,
+    "party": "MSZP"
+  },
+  "423": {
+    "day": 123,
+    "numb": 230,
+    "party": "MSZP"
+  },
+  "424": {
+    "day": 123,
+    "numb": 234,
+    "party": "MSZP"
+  },
+  "425": {
+    "day": 123,
+    "numb": 356,
+    "party": "MSZP"
+  },
+  "426": {
+    "day": 123,
+    "numb": 358,
+    "party": "Fidesz"
+  },
+  "427": {
+    "day": 127,
+    "numb": 283,
+    "party": "KDNP"
+  },
+  "428": {
+    "day": 127,
+    "numb": 321,
+    "party": "KDNP"
+  },
+  "429": {
+    "day": 127,
+    "numb": 333,
+    "party": "KDNP"
+  },
+  "430": {
+    "day": 131,
+    "numb": 142,
+    "party": "MSZP"
+  },
+  "431": {
+    "day": 135,
+    "numb": 114,
+    "party": "MSZP"
+  },
+  "432": {
+    "day": 137,
+    "numb": 40,
+    "party": "MSZP"
+  },
+  "433": {
+    "day": 137,
+    "numb": 112,
+    "party": "MSZP"
+  },
+  "434": {
+    "day": 138,
+    "numb": 215,
+    "party": "Jobbik"
+  },
+  "435": {
+    "day": 138,
+    "numb": 373,
+    "party": "LMP"
+  },
+  "436": {
+    "day": 138,
+    "numb": 375,
+    "party": "Jobbik"
+  },
+  "437": {
+    "day": 138,
+    "numb": 377,
+    "party": "Jobbik"
+  },
+  "438": {
+    "day": 138,
+    "numb": 379,
+    "party": "Fidesz"
+  },
+  "439": {
+    "day": 141,
+    "numb": 86,
+    "party": "Jobbik"
+  },
+  "440": {
+    "day": 142,
+    "numb": 154,
+    "party": "MSZP"
+  },
+  "441": {
+    "day": 142,
+    "numb": 217,
+    "party": "Jobbik"
+  },
+  "442": {
+    "day": 142,
+    "numb": 219,
+    "party": "LMP"
+  },
+  "443": {
+    "day": 142,
+    "numb": 231,
+    "party": "Jobbik"
+  },
+  "444": {
+    "day": 142,
+    "numb": 245,
+    "party": "LMP"
+  },
+  "445": {
+    "day": 144,
+    "numb": 46,
+    "party": "MSZP3"
+  },
+  "446": {
+    "day": 144,
+    "numb": 854,
+    "party": "MSZP"
+  },
+  "447": {
+    "day": 145,
+    "numb": 12,
+    "party": "MSZP"
+  },
+  "448": {
+    "day": 146,
+    "numb": 10,
+    "party": "Fidesz"
+  },
+  "449": {
+    "day": 147,
+    "numb": 376,
+    "party": "Jobbik"
+  },
+  "450": {
+    "day": 155,
+    "numb": 28,
+    "party": "LMP"
+  },
+  "451": {
+    "day": 155,
+    "numb": 80,
+    "party": "Jobbik"
+  },
+  "452": {
+    "day": 155,
+    "numb": 148,
+    "party": "Jobbik"
+  },
+  "453": {
+    "day": 155,
+    "numb": 150,
+    "party": "Jobbik"
+  },
+  "454": {
+    "day": 162,
+    "numb": 327,
+    "party": "Jobbik"
+  },
+  "455": {
+    "day": 164,
+    "numb": 164,
+    "party": "LMP"
+  },
+  "456": {
+    "day": 168,
+    "numb": 181,
+    "party": "MSZP"
+  },
+  "457": {
+    "day": 174,
+    "numb": 339,
+    "party": "Jobbik"
+  },
+  "458": {
+    "day": 175,
+    "numb": 42,
+    "party": "MSZP6"
+  },
+  "459": {
+    "day": 175,
+    "numb": 174,
+    "party": "MSZP"
+  },
+  "460": {
+    "day": 180,
+    "numb": 62,
+    "party": "MSZP"
+  },
+  "461": {
+    "day": 181,
+    "numb": 132,
+    "party": "MSZP"
+  },
+  "462": {
+    "day": 183,
+    "numb": 4,
+    "party": "MSZP"
+  },
+  "463": {
+    "day": 186,
+    "numb": 23,
+    "party": "independent"
+  },
+  "464": {
+    "day": 186,
+    "numb": 43,
+    "party": "MSZP"
+  },
+  "465": {
+    "day": 186,
+    "numb": 49,
+    "party": "KDNP"
+  },
+  "466": {
+    "day": 186,
+    "numb": 55,
+    "party": "LMP"
+  },
+  "467": {
+    "day": 186,
+    "numb": 163,
+    "party": "MSZP"
+  },
+  "468": {
+    "day": 197,
+    "numb": 110,
+    "party": "MSZP"
+  },
+  "469": {
+    "day": 198,
+    "numb": 70,
+    "party": "Jobbik"
+  },
+  "470": {
+    "day": 203,
+    "numb": 293,
+    "party": "Jobbik"
+  },
+  "471": {
+    "day": 204,
+    "numb": 16,
+    "party": "Jobbik"
+  },
+  "472": {
+    "day": 204,
+    "numb": 76,
+    "party": "MSZP"
+  },
+  "473": {
+    "day": 216,
+    "numb": 226,
+    "party": "KDNP"
+  },
+  "474": {
+    "day": 219,
+    "numb": 160,
+    "party": "MSZP"
+  },
+  "475": {
+    "day": 219,
+    "numb": 170,
+    "party": "Jobbik"
+  },
+  "476": {
+    "day": 221,
+    "numb": 28,
+    "party": "LMP"
+  },
+  "477": {
+    "day": 221,
+    "numb": 68,
+    "party": "LMP"
+  },
+  "478": {
+    "day": 221,
+    "numb": 78,
+    "party": "Jobbik"
+  },
+  "479": {
+    "day": 221,
+    "numb": 100,
+    "party": "Jobbik"
+  },
+  "480": {
+    "day": 221,
+    "numb": 138,
+    "party": "Jobbik"
+  },
+  "481": {
+    "day": 221,
+    "numb": 142,
+    "party": "Fidesz"
+  },
+  "482": {
+    "day": 221,
+    "numb": 144,
+    "party": "MSZP"
+  },
+  "483": {
+    "day": 221,
+    "numb": 154,
+    "party": "LMP"
+  },
+  "484": {
+    "day": 221,
+    "numb": 156,
+    "party": "KDNP"
+  },
+  "485": {
+    "day": 221,
+    "numb": 196,
+    "party": "MSZP"
+  },
+  "486": {
+    "day": 221,
+    "numb": 200,
+    "party": "Jobbik"
+  },
+  "487": {
+    "day": 221,
+    "numb": 212,
+    "party": "MSZP"
+  },
+  "488": {
+    "day": 221,
+    "numb": 218,
+    "party": "Fidesz"
+  },
+  "489": {
+    "day": 221,
+    "numb": 234,
+    "party": "MSZP"
+  },
+  "490": {
+    "day": 221,
+    "numb": 240,
+    "party": "LMP"
+  },
+  "491": {
+    "day": 231,
+    "numb": 207,
+    "party": "Fidesz"
+  },
+  "492": {
+    "day": 231,
+    "numb": 219,
+    "party": "Fidesz"
+  },
+  "493": {
+    "day": 231,
+    "numb": 223,
+    "party": "LMP"
+  },
+  "494": {
+    "day": 231,
+    "numb": 225,
+    "party": "KDNP"
+  },
+  "495": {
+    "day": 231,
+    "numb": 431,
+    "party": "Fidesz"
+  },
+  "496": {
+    "day": 231,
+    "numb": 433,
+    "party": "LMP"
+  },
+  "497": {
+    "day": 236,
+    "numb": 191,
+    "party": "independent"
+  },
+  "498": {
+    "day": 245,
+    "numb": 138,
+    "party": "Fidesz"
+  },
+  "499": {
+    "day": 248,
+    "numb": 335,
+    "party": "Fidesz"
+  },
+  "500": {
+    "day": 248,
+    "numb": 339,
+    "party": "Fidesz"
+  },
+  "501": {
+    "day": 248,
+    "numb": 343,
+    "party": "Jobbik"
+  },
+  "502": {
+    "day": 248,
+    "numb": 363,
+    "party": "LMP"
+  },
+  "503": {
+    "day": 248,
+    "numb": 387,
+    "party": "Jobbik"
+  },
+  "504": {
+    "day": 249,
+    "numb": 134,
+    "party": "Fidesz"
+  },
+  "505": {
+    "day": 250,
+    "numb": 243,
+    "party": "Jobbik"
+  },
+  "506": {
+    "day": 254,
+    "numb": 20,
+    "party": "Fidesz"
+  },
+  "507": {
+    "day": 254,
+    "numb": 22,
+    "party": "Fidesz"
+  },
+  "508": {
+    "day": 254,
+    "numb": 38,
+    "party": "MSZP"
+  },
+  "509": {
+    "day": 254,
+    "numb": 52,
+    "party": "Jobbik"
+  },
+  "510": {
+    "day": 254,
+    "numb": 145,
+    "party": "Jobbik"
+  },
+  "511": {
+    "day": 254,
+    "numb": 149,
+    "party": "Jobbik"
+  },
+  "512": {
+    "day": 254,
+    "numb": 175,
+    "party": "independent"
+  },
+  "513": {
+    "day": 254,
+    "numb": 221,
+    "party": "Jobbik"
+  },
+  "514": {
+    "day": 255,
+    "numb": 226,
+    "party": "Fidesz"
+  },
+  "515": {
+    "day": 255,
+    "numb": 230,
+    "party": "Fidesz"
+  },
+  "516": {
+    "day": 255,
+    "numb": 256,
+    "party": "Fidesz"
+  },
+  "517": {
+    "day": 255,
+    "numb": 264,
+    "party": "independent"
+  },
+  "518": {
+    "day": 255,
+    "numb": 268,
+    "party": "independent"
+  },
+  "519": {
+    "day": 255,
+    "numb": 290,
+    "party": "Jobbik"
+  },
+  "520": {
+    "day": 257,
+    "numb": 136,
+    "party": "MSZP"
+  },
+  "521": {
+    "day": 257,
+    "numb": 142,
+    "party": "Fidesz"
+  },
+  "522": {
+    "day": 258,
+    "numb": 39,
+    "party": "Fidesz"
+  },
+  "523": {
+    "day": 259,
+    "numb": 131,
+    "party": "Jobbik"
+  },
+  "524": {
+    "day": 260,
+    "numb": 8,
+    "party": "KDNP"
+  },
+  "525": {
+    "day": 260,
+    "numb": 12,
+    "party": "KDNP"
+  },
+  "526": {
+    "day": 265,
+    "numb": 14,
+    "party": "Fidesz"
+  },
+  "527": {
+    "day": 266,
+    "numb": 183,
+    "party": "Fidesz"
+  },
+  "528": {
+    "day": 267,
+    "numb": 30,
+    "party": "MSZP"
+  },
+  "529": {
+    "day": 268,
+    "numb": 84,
+    "party": "independent"
+  },
+  "530": {
+    "day": 270,
+    "numb": 297,
+    "party": "MSZP"
+  },
+  "531": {
+    "day": 270,
+    "numb": 305,
+    "party": "KDNP"
+  },
+  "532": {
+    "day": 270,
+    "numb": 317,
+    "party": "Fidesz"
+  },
+  "533": {
+    "day": 271,
+    "numb": 26,
+    "party": "MSZP"
+  },
+  "534": {
+    "day": 271,
+    "numb": 127,
+    "party": "MSZP"
+  },
+  "535": {
+    "day": 272,
+    "numb": 233,
+    "party": "MSZP"
+  },
+  "536": {
+    "day": 273,
+    "numb": 38,
+    "party": "KDNP"
+  },
+  "537": {
+    "day": 283,
+    "numb": 192,
+    "party": "Fidesz"
+  },
+  "538": {
+    "day": 286,
+    "numb": 28,
+    "party": "MSZP"
+  },
+  "539": {
+    "day": 288,
+    "numb": 115,
+    "party": "Fidesz"
+  },
+  "540": {
+    "day": 288,
+    "numb": 131,
+    "party": "Fidesz"
+  },
+  "541": {
+    "day": 299,
+    "numb": 156,
+    "party": "Fidesz"
+  },
+  "542": {
+    "day": 299,
+    "numb": 253,
+    "party": "MSZP"
+  },
+  "543": {
+    "day": 299,
+    "numb": 257,
+    "party": "Fidesz"
+  },
+  "544": {
+    "day": 299,
+    "numb": 259,
+    "party": "MSZP"
+  },
+  "545": {
+    "day": 299,
+    "numb": 261,
+    "party": "KDNP"
+  },
+  "546": {
+    "day": 299,
+    "numb": 263,
+    "party": "KDNP"
+  },
+  "547": {
+    "day": 299,
+    "numb": 275,
+    "party": "KDNP"
+  },
+  "548": {
+    "day": 299,
+    "numb": 279,
+    "party": "Jobbik"
+  },
+  "549": {
+    "day": 299,
+    "numb": 281,
+    "party": "MSZP3"
+  },
+  "550": {
+    "day": 299,
+    "numb": 283,
+    "party": "Fidesz"
+  },
+  "551": {
+    "day": 299,
+    "numb": 287,
+    "party": "MSZP"
+  },
+  "552": {
+    "day": 300,
+    "numb": 94,
+    "party": "Jobbik"
+  },
+  "553": {
+    "day": 300,
+    "numb": 150,
+    "party": "Fidesz"
+  },
+  "554": {
+    "day": 301,
+    "numb": 66,
+    "party": "Fidesz"
+  },
+  "555": {
+    "day": 301,
+    "numb": 196,
+    "party": "Fidesz"
+  },
+  "556": {
+    "day": 305,
+    "numb": 188,
+    "party": "independent"
+  },
+  "557": {
+    "day": 335,
+    "numb": 44,
+    "party": "MSZP"
+  },
+  "558": {
+    "day": 338,
+    "numb": 14,
+    "party": "Jobbik"
+  }
+}
+}

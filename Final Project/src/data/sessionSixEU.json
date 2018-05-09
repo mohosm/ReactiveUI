@@ -1,0 +1,389 @@
+{ "meta":{
+  "total":64
+},
+  "speeches":{
+  "1": {
+    "day": 6,
+    "numb": 6,
+    "text": " ...the Hungarian state must provide at least as much protection and support to Hungarian businesses, as other EU countries are able to provide to theirs...",
+    "context":"neutral"
+  },
+  "2": {
+    "day": 13,
+    "numb": 4,
+    "text": "...the main direction of the measures taken in Europe, that determine, to the ssatisfaction of none of us, the current European plocies on economics...",
+	"context":"negative"
+  },
+  "3": {
+    "day": 28,
+    "numb": 2,
+    "text": "... the EU shouldn't try to solve Hungary's problems, it should try to solve the EU's problems...",
+	"context":"negative"
+  },
+  "4": {
+    "day": 28,
+    "numb": 18,
+    "text": "",
+    "context":""
+  },
+  "5": {
+    "day": 28,
+    "numb": 71,
+    "text": "",
+    "context":""
+  },
+  "6": {
+    "day": 29,
+    "numb": 18,
+    "text": "...the point of view I represent in Brussels is that we return to an accounting system, that (...) does not hurt our budgets...",
+    "context":"negative"
+  },
+  "7": {
+    "day": 35,
+    "numb": 6,
+    "text": "...only us, the countries that joined the EU later were forced to adopt this system [the separation of the political and business sphere]...",
+    "context":"negative"
+  },
+  "8": {
+    "day": 35,
+    "numb": 18,
+    "text": "",
+    "context":""
+  },
+  "9": {
+    "day": 46,
+    "numb": 171,
+    "text": "...in the Union, the amount of national debt countries owe is rising...",
+    "context":"negative"
+  },
+  "10": {
+    "day": 54,
+    "numb": 128,
+    "text": "�on a joint session in Brussels, where we determined the tasks, commissions and even the people leading the commissional sessions ...",
+    "context":"positive"
+  },
+  "11": {
+    "day": 64,
+    "numb": 8,
+    "text": "...they started to attack Hungary on the pretense of our media laws...",
+    "context":"negative"
+  },
+  "12": {
+    "day": 64,
+    "numb": 24,
+    "text":"",
+    "context":""
+  },
+  "13": {
+    "day": 82,
+    "numb": 2,
+    "text": "... we want a strong Europe, because it is in the interest of us Hungarians, just like other European nations, to live in a strong Europe...",
+    "context":"neutral"
+  },
+  "14": {
+    "day": 82,
+    "numb": 14,
+    "text": "",
+    "context":""
+  },
+  "15": {
+    "day": 83,
+    "numb": 126,
+    "text": "�when the Union makes a decision that Hungary accepts without any judicial further ado, (...) the EU practices this jurisdiction together with us, since we are members of the EU...",
+    "context":"neutral"
+  },
+  "16": {
+    "day": 83,
+    "numb": 130,
+    "text": "",
+    "context":""
+  },
+  "17": {
+    "day": 104,
+    "numb": 2,
+    "text": "...half a year ago the EU didn�t have a mechanism to combat this crisis...",
+    "context":"negative"
+  },
+  "18": {
+    "day": 104,
+    "numb": 14,
+    "text": "",
+    "context":""
+  },
+  "19": {
+    "day": 108,
+    "numb": 150,
+    "text": "...those [in the EU] who attacked us because of this tax have since already implemented it themselves...",
+    "context":"negative"
+  },
+  "20": {
+    "day": 109,
+    "numb": 2,
+    "text": "... we must pay back our debts to the EU and the IMF, without taking on any new ones...",
+    "context":"neutral"
+  },
+  "21": {
+    "day": 109,
+    "numb": 18,
+    "text": "",
+    "context":""
+  },
+  "22": {
+    "day": 122,
+    "numb": 10,
+    "text": "...we should not let the slowness of Europe take us back...",
+    "context":"negative"
+  },
+  "23": {
+    "day": 122,
+    "numb": 22,
+    "text": "",
+    "context":""
+  },
+  "24": {
+    "day": 138,
+    "numb": 144,
+    "text": "...for the first time we brought the deficit under 3%, which we promised upon entering the EU...",
+    "context":"neutral"
+  },
+  "25": {
+    "day": 152,
+    "numb": 2,
+    "text": "...the crisis of the Euro zone couldn�t be handled properly by the EU...",
+    "context":"negative"
+  },
+  "26": {
+    "day": 152,
+    "numb": 14,
+    "text": "",
+    "context":""
+  },
+  "27": {
+    "day": 162,
+    "numb": 10,
+    "text": "...we didn't say yes to the unprepared and vaguely defined proposal for an European financial pact...",
+    "context":"negative"
+  },
+  "28": {
+    "day": 162,
+    "numb": 22,
+    "text": "",
+    "context":""
+  },
+  "29": {
+    "day": 168,
+    "numb": 16,
+    "text": "... We expect the EU to start supporting this Hungarian initiative...",
+    "context":"neutral"
+  },
+  "30": {
+    "day": 168,
+    "numb": 92,
+    "text": "... We expect the EU to start supporting this Hungarian initiative...",
+    "context":"neutral"
+  },
+  "31": {
+    "day": 185,
+    "numb": 88,
+    "text": "...we are taking advantage of theEU  trade union...",
+    "context":"positive"
+  },
+  "32": {
+    "day": 185,
+    "numb": 92,
+    "text": "",
+    "context":""
+  },
+  "33": {
+    "day": 211,
+    "numb": 2,
+    "text": "...It is apparent that Europe is unable to regain control of the financial sphere...",
+    "context":"negative"
+  },
+  "34": {
+    "day": 211,
+    "numb": 14,
+    "text": "",
+    "context":""
+  },
+  "35": {
+    "day": 211,
+    "numb": 16,
+    "text": "",
+    "context":""
+  },
+  "36": {
+    "day": 216,
+    "numb": 2,
+    "text": "...we need to prevent that Europe�s crisis brings down Hungary with it...",
+    "context":"negative"
+  },
+  "37": {
+    "day": 216,
+    "numb": 16,
+    "text": "",
+    "context":""
+  },
+  "38": {
+    "day": 223,
+    "numb": 140,
+    "text": "...I reject others to interfere with our economical and social systems from the outside...",
+    "context":"negative"
+  },
+  "39": {
+    "day": 223,
+    "numb": 144,
+    "text": "",
+    "context":""
+  },
+  "40": {
+    "day": 223,
+    "numb": 148,
+    "text": "",
+    "context":""
+  },
+  "41": {
+    "day": 223,
+    "numb": 152,
+    "text": "",
+    "context":""
+  },
+  "42": {
+    "day": 233,
+    "numb": 144,
+    "text": "...the EU's charta on basic human rights, that was ratified by Hungary, explicitly forbids death penalty...",
+    "context":"positive"
+  },
+  "43": {
+    "day": 233,
+    "numb": 148,
+    "text": "",
+    "context":""
+  },
+  "44": {
+    "day": 245,
+    "numb": 100,
+    "text": "... did we say yes to joining the kind of Union, that we are now starting to see?...",
+    "context":"negative"
+  },
+  "45": {
+    "day": 245,
+    "numb": 138,
+    "text": "",
+    "context":"negative"
+  },
+  "46": {
+    "day": 245,
+    "numb": 142,
+    "text": "",
+    "context":""
+  },
+  "47": {
+    "day": 245,
+    "numb": 156,
+    "text": "",
+    "context":""
+  },
+  "48": {
+    "day": 251,
+    "numb": 2,
+    "text": "... we should encourage them to defend the budget in the European Parliament, because that is beneficial to Hungary...",
+    "context":"neutral"
+  },
+  "49": {
+    "day": 251,
+    "numb": 16,
+    "text": "",
+    "context":""
+  },
+  "50": {
+    "day": 257,
+    "numb": 88,
+    "text": "... The EU has many mistakes and problems, but we don�t have a more reasonable alternative...",
+    "context":"neutral"
+  },
+  "51": {
+    "day": 257,
+    "numb": 92,
+    "text": "",
+    "context":""
+  },
+  "52": {
+    "day": 259,
+    "numb": 6,
+    "text": "... You say we fight against the EU, but [...] we fight for the ones who we are responsible for...",
+    "context":"negative"
+  },
+  "53": {
+    "day": 259,
+    "numb": 16,
+    "text": "",
+    "context":""
+  },
+  "54": {
+    "day": 266,
+    "numb": 108,
+    "text": "� the European economics in itself is unable to [manage the debt], this is clear as day...",
+    "context":"negative"
+  },
+  "55": {
+    "day": 282,
+    "numb": 98,
+    "text": "... the European Union is often unjust towards Hungary, often uses double standards, and from time to time abuses its powers...",
+    "context":"negative"
+  },
+  "56": {
+    "day": 282,
+    "numb": 102,
+    "text": "",
+    	"context":""
+  },
+  "57": {
+    "day": 295,
+    "numb": 5,
+    "text": "... in all [three main European institutions] they attack Hungary because of the decrease in utility prices...",
+    "context":"negative"
+  },
+  "58": {
+    "day": 295,
+    "numb": 15,
+    "text": "",
+    "context":""
+  },
+  "59": {
+    "day": 299,
+    "numb": 2,
+    "text": "... we were vulnarable to the financial world, the EU bureaucrats and politicians...",
+    "context":"negative"
+  },
+  "60": {
+    "day": 320,
+    "numb": 130,
+    "text": "...We need to bring Ukraine closer to the EU...",
+    "context":"neutral"
+  },
+  "61": {
+    "day": 320,
+    "numb": 134,
+    "text": "",
+    "context":""
+  },
+  "62": {
+    "day": 331,
+    "numb": 140,
+    "text": "... we couldn't exclude the possibility that the EU is horribly wrong...",
+    "context":"negative"
+  },
+  "63": {
+    "day": 331,
+    "numb": 170,
+    "text": "",
+    "context":""
+  },
+  "64": {
+    "day": 339,
+    "numb": 2,
+    "text": "... the corporations, bankers and bureaucrats in Brussels want to attack Hungarian families again...",
+    "context":"negative"
+     }
+}}

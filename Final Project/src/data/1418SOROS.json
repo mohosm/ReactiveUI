@@ -1,0 +1,2521 @@
+{
+  "meta":{
+    "total":419
+  },
+  "speeches":{
+  "1": {
+    "day": 37,
+    "numb": 86,
+    "name": "Bang�n� Borb�ly Ildik� ",
+    "party": "MSZP"
+  },
+  "2": {
+    "day": 37,
+    "numb": 90,
+    "name": "Orb�n Viktor ",
+    "party": "Fidesz"
+  },
+  "3": {
+    "day": 70,
+    "numb": 14,
+    "name": "Balog Zolt�n ",
+    "party": "Fidesz"
+  },
+  "4": {
+    "day": 105,
+    "numb": 10,
+    "name": "Sz�szfalvi L�szl� ",
+    "party": "KDNP"
+  },
+  "5": {
+    "day": 105,
+    "numb": 252,
+    "name": "Ander Bal�zs ",
+    "party": "Jobbik"
+  },
+  "6": {
+    "day": 111,
+    "numb": 18,
+    "name": "K�sa Lajos ",
+    "party": "Fidesz"
+  },
+  "7": {
+    "day": 111,
+    "numb": 20,
+    "name": "Rog�n Antal ",
+    "party": "Fidesz"
+  },
+  "8": {
+    "day": 114,
+    "numb": 26,
+    "name": "Mesterh�zy Attila ",
+    "party": "MSZP"
+  },
+  "9": {
+    "day": 115,
+    "numb": 182,
+    "name": "Mesterh�zy Attila ",
+    "party": "MSZP"
+  },
+  "10": {
+    "day": 120,
+    "numb": 263,
+    "name": "Heged�s Lor�ntn� ",
+    "party": "Jobbik"
+  },
+  "11": {
+    "day": 121,
+    "numb": 30,
+    "name": "K�sa Lajos ",
+    "party": "Fidesz"
+  },
+  "12": {
+    "day": 121,
+    "numb": 32,
+    "name": "Rog�n Antal ",
+    "party": "Fidesz"
+  },
+  "13": {
+    "day": 125,
+    "numb": 24,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "14": {
+    "day": 128,
+    "numb": 132,
+    "name": "Dr. Vadai �gnes ",
+    "party": "independent9"
+  },
+  "15": {
+    "day": 128,
+    "numb": 146,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "16": {
+    "day": 128,
+    "numb": 148,
+    "name": "Ander Bal�zs ",
+    "party": "Jobbik"
+  },
+  "17": {
+    "day": 131,
+    "numb": 96,
+    "name": "Szab� Timea ",
+    "party": "independent"
+  },
+  "18": {
+    "day": 131,
+    "numb": 122,
+    "name": "D�r� D�ra ",
+    "party": "Jobbik"
+  },
+  "19": {
+    "day": 131,
+    "numb": 128,
+    "name": "Sallai R. Benedek ",
+    "party": "LMP"
+  },
+  "20": {
+    "day": 131,
+    "numb": 168,
+    "name": "Balla Gy�rgy ",
+    "party": "Fidesz"
+  },
+  "21": {
+    "day": 134,
+    "numb": 4,
+    "name": "Rog�n Antal ",
+    "party": "Fidesz"
+  },
+  "22": {
+    "day": 138,
+    "numb": 6,
+    "name": "Kunhalmi �gnes ",
+    "party": "MSZP"
+  },
+  "23": {
+    "day": 138,
+    "numb": 166,
+    "name": "Sallai R. Benedek ",
+    "party": "LMP7"
+  },
+  "24": {
+    "day": 151,
+    "numb": 18,
+    "name": "Sallai R. Benedek ",
+    "party": "LMP3"
+  },
+  "25": {
+    "day": 155,
+    "numb": 14,
+    "name": "K�sa Lajos ",
+    "party": "Fidesz"
+  },
+  "26": {
+    "day": 157,
+    "numb": 52,
+    "name": "Szab� Szabolcs ",
+    "party": "independent1"
+  },
+  "27": {
+    "day": 158,
+    "numb": 219,
+    "name": "Dr. Schiffer Andr�s ",
+    "party": "LMP"
+  },
+  "28": {
+    "day": 159,
+    "numb": 134,
+    "name": "Gy�ngy�si M�rton ",
+    "party": "Jobbik"
+  },
+  "29": {
+    "day": 159,
+    "numb": 136,
+    "name": "Orb�n Viktor ",
+    "party": "Fidesz"
+  },
+  "30": {
+    "day": 159,
+    "numb": 138,
+    "name": "Gy�ngy�si M�rton ",
+    "party": "Jobbik"
+  },
+  "31": {
+    "day": 162,
+    "numb": 137,
+    "name": "Csenger-Zal�n Zsolt ",
+    "party": "Fidesz"
+  },
+  "32": {
+    "day": 162,
+    "numb": 145,
+    "name": "Csenger-Zal�n Zsolt ",
+    "party": "Fidesz"
+  },
+  "33": {
+    "day": 165,
+    "numb": 208,
+    "name": "Kunhalmi �gnes ",
+    "party": "MSZP"
+  },
+  "34": {
+    "day": 176,
+    "numb": 249,
+    "name": "Sz�szfalvi L�szl� ",
+    "party": "KDNP"
+  },
+  "35": {
+    "day": 177,
+    "numb": 102,
+    "name": "Bana Tibor ",
+    "party": "Jobbik"
+  },
+  "36": {
+    "day": 177,
+    "numb": 104,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "37": {
+    "day": 183,
+    "numb": 14,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "38": {
+    "day": 185,
+    "numb": 60,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik2"
+  },
+  "39": {
+    "day": 188,
+    "numb": 43,
+    "name": "K�v�r L�szl� ",
+    "party": "Fidesz"
+  },
+  "40": {
+    "day": 188,
+    "numb": 44,
+    "name": "Dr. Staudt G�bor ",
+    "party": "Jobbik"
+  },
+  "41": {
+    "day": 188,
+    "numb": 46,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "42": {
+    "day": 191,
+    "numb": 195,
+    "name": "L�z�r J�nos ",
+    "party": "Fidesz6"
+  },
+  "43": {
+    "day": 191,
+    "numb": 209,
+    "name": "Csepreghy N�ndor20:44",
+    "party": "Fidesz"
+},
+  "44": {
+    "day": 191,
+    "numb": 267,
+    "name": "Volner J�nos ",
+    "party": "Jobbik"
+  },
+  "45": {
+    "day": 197,
+    "numb": 175,
+    "name": "�gh P�ter ",
+    "party": "Fidesz"
+  },
+  "46": {
+    "day": 200,
+    "numb": 52,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz2"
+  },
+  "47": {
+    "day": 202,
+    "numb": 20,
+    "name": "Dr. H�rcsik Rich�rd ",
+    "party": "Fidesz"
+  },
+  "48": {
+    "day": 203,
+    "numb": 198,
+    "name": "L�z�r J�nos ",
+    "party": "Fidesz"
+  },
+  "49": {
+    "day": 206,
+    "numb": 8,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+	},
+  "50": {
+    "day": 206,
+    "numb": 17,
+    "name": "Lezs�k S�ndor ",
+    "party": "Fidesz"
+  },
+  "51": {
+    "day": 206,
+    "numb": 18,
+    "name": "K�sa Lajos ",
+    "party": "Fidesz"
+  },
+  "52": {
+    "day": 206,
+    "numb": 25,
+    "name": "Dr. Majt�nyi L�szl�15:14",
+    "party": "independent"
+  },
+  "53": {
+    "day": 206,
+    "numb": 126,
+    "name": "Vona G�bor ",
+    "party": "Jobbik"
+  },
+  "54": {
+    "day": 207,
+    "numb": 22,
+    "name": "K�sa Lajos ",
+    "party": "Fidesz"
+  },
+  "55": {
+    "day": 207,
+    "numb": 24,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "56": {
+    "day": 209,
+    "numb": 16,
+    "name": "Hal�sz J�nos ",
+    "party": "Fidesz"
+  },
+  "57": {
+    "day": 209,
+    "numb": 18,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "58": {
+    "day": 209,
+    "numb": 196,
+    "name": "Dr. Szak�cs L�szl� ",
+    "party": "MSZP0"
+  },
+  "59": {
+    "day": 209,
+    "numb": 248,
+    "name": "Sallai R. Benedek ",
+    "party": "LMP"
+  },
+  "60": {
+    "day": 210,
+    "numb": 4,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "61": {
+    "day": 210,
+    "numb": 6,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "62": {
+    "day": 210,
+    "numb": 8,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "63": {
+    "day": 210,
+    "numb": 10,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "64": {
+    "day": 210,
+    "numb": 16,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "65": {
+    "day": 210,
+    "numb": 56,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "66": {
+    "day": 210,
+    "numb": 200,
+    "name": "L�z�r J�nos ",
+    "party": "Fidesz"
+  },
+  "67": {
+    "day": 210,
+    "numb": 202,
+    "name": "�gh P�ter ",
+    "party": "Fidesz"
+  },
+  "68": {
+    "day": 210,
+    "numb": 286,
+    "name": "Demeter M�rta ",
+    "party": "independent"
+  },
+  "69": {
+    "day": 211,
+    "numb": 10,
+    "name": "Dr. Ap�ti Istv�n ",
+    "party": "Jobbik"
+  },
+  "70": {
+    "day": 211,
+    "numb": 24,
+    "name": "Balog Zolt�n ",
+    "party": "Fidesz6"
+  },
+  "71": {
+    "day": 211,
+    "numb": 28,
+    "name": "Dr. B�r�ndy Gergely ",
+    "party": "MSZP"
+  },
+  "72": {
+    "day": 211,
+    "numb": 32,
+    "name": "Dr. Vinnai Gy�z� ",
+    "party": "Fidesz4"
+  },
+  "73": {
+    "day": 211,
+    "numb": 36,
+    "name": "Dr. Vinnai Gy�z� ",
+    "party": "Fidesz"
+  },
+  "74": {
+    "day": 211,
+    "numb": 40,
+    "name": "Dr. Hoffmann R�zsa ",
+    "party": "KDNP"
+  },
+  "75": {
+    "day": 211,
+    "numb": 42,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "76": {
+    "day": 211,
+    "numb": 46,
+    "name": "Szab� Szabolcs ",
+    "party": "independent"
+  },
+  "77": {
+    "day": 211,
+    "numb": 50,
+    "name": "Dr. P�s�n L�szl� ",
+    "party": "Fidesz"
+  },
+  "78": {
+    "day": 211,
+    "numb": 54,
+    "name": "Dr. Vejkey Imre ",
+    "party": "KDNP"
+  },
+  "79": {
+    "day": 211,
+    "numb": 56,
+    "name": "Ikotity Istv�n ",
+    "party": "LMP6"
+  },
+  "80": {
+    "day": 211,
+    "numb": 60,
+    "name": "G�r N�ndor ",
+    "party": "MSZP"
+  },
+  "81": {
+    "day": 211,
+    "numb": 64,
+    "name": "Dunai M�nika ",
+    "party": "Fidesz"
+  },
+  "82": {
+    "day": 211,
+    "numb": 66,
+    "name": "Dr. B�r�ndy Gergely ",
+    "party": "MSZP"
+  },
+  "83": {
+    "day": 211,
+    "numb": 74,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "84": {
+    "day": 211,
+    "numb": 76,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "85": {
+    "day": 211,
+    "numb": 80,
+    "name": "Z. K�rp�t D�niel ",
+    "party": "Jobbik"
+  },
+  "86": {
+    "day": 211,
+    "numb": 82,
+    "name": "Szil�gyi Gy�rgy ",
+    "party": "Jobbik"
+  },
+  "87": {
+    "day": 211,
+    "numb": 86,
+    "name": "Dr. Vinnai Gy�z� ",
+    "party": "Fidesz"
+  },
+  "88": {
+    "day": 211,
+    "numb": 170,
+    "name": "Z. K�rp�t D�niel ",
+    "party": "Jobbik"
+  },
+  "89": {
+    "day": 212,
+    "numb": 2,
+    "name": "K�sa Lajos ",
+    "party": "Fidesz"
+  },
+  "90": {
+    "day": 212,
+    "numb": 6,
+    "name": "Kunhalmi �gnes ",
+    "party": "MSZP"
+  },
+  "91": {
+    "day": 212,
+    "numb": 8,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "92": {
+    "day": 212,
+    "numb": 9,
+    "name": "Sneider Tam�s ",
+    "party": "Jobbik"
+  },
+  "93": {
+    "day": 212,
+    "numb": 10,
+    "name": "Dr. Vejkey Imre ",
+    "party": "KDNP"
+  },
+  "94": {
+    "day": 212,
+    "numb": 12,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "95": {
+    "day": 212,
+    "numb": 18,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "96": {
+    "day": 212,
+    "numb": 20,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "97": {
+    "day": 212,
+    "numb": 72,
+    "name": "Tukacs Istv�n ",
+    "party": "MSZP"
+  },
+  "98": {
+    "day": 212,
+    "numb": 100,
+    "name": "Dr. B�r�ndy Gergely ",
+    "party": "MSZP"
+  },
+  "99": {
+    "day": 212,
+    "numb": 102,
+    "name": "Orb�n Viktor ",
+    "party": "Fidesz"
+  },
+  "100": {
+    "day": 212,
+    "numb": 114,
+    "name": "Gy�ngy�si M�rton ",
+    "party": "Jobbik:36"
+  },
+  "101": {
+    "day": 212,
+    "numb": 148,
+    "name": "Vona G�bor ",
+    "party": "Jobbik"
+  },
+  "102": {
+    "day": 212,
+    "numb": 150,
+    "name": "Orb�n Viktor ",
+    "party": "Fidesz"
+  },
+  "103": {
+    "day": 212,
+    "numb": 152,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "104": {
+    "day": 213,
+    "numb": 2,
+    "name": "Dr. T�th Bertalan ",
+    "party": "MSZP"
+  },
+  "105": {
+    "day": 213,
+    "numb": 12,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "106": {
+    "day": 213,
+    "numb": 14,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "107": {
+    "day": 213,
+    "numb": 16,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "108": {
+    "day": 213,
+    "numb": 34,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "109": {
+    "day": 213,
+    "numb": 41,
+    "name": "Dr. Latorcai J�nos ",
+    "party": "KDNP"
+  },
+  "110": {
+    "day": 213,
+    "numb": 42,
+    "name": "Dr. Tilki Attila ",
+    "party": "Fidesz"
+  },
+  "111": {
+    "day": 213,
+    "numb": 44,
+    "name": "Dr. Szab� L�szl�2:48",
+    "party": "Fidesz"
+},
+  "112": {
+    "day": 213,
+    "numb": 46,
+    "name": "Dr. Tilki Attila ",
+    "party": "Fidesz"
+  },
+  "113": {
+    "day": 213,
+    "numb": 98,
+    "name": "Ikotity Istv�n ",
+    "party": "LMP"
+  },
+  "114": {
+    "day": 213,
+    "numb": 160,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "115": {
+    "day": 213,
+    "numb": 164,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "116": {
+    "day": 214,
+    "numb": 8,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "117": {
+    "day": 214,
+    "numb": 20,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "118": {
+    "day": 214,
+    "numb": 22,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "119": {
+    "day": 214,
+    "numb": 24,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "120": {
+    "day": 214,
+    "numb": 32,
+    "name": "Dr. Vit�nyi Istv�n ",
+    "party": "Fidesz"
+  },
+  "121": {
+    "day": 214,
+    "numb": 34,
+    "name": "Dr. B�r�ndy Gergely ",
+    "party": "MSZP4"
+  },
+  "122": {
+    "day": 214,
+    "numb": 36,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "123": {
+      "day": 214,
+    "numb": 38,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik9"
+  },
+  "124": {
+    "day": 214,
+    "numb": 40,
+    "name": "Schmuck Erzs�bet ",
+    "party": "LMP"
+  },
+  "125": {
+    "day": 214,
+    "numb": 62,
+    "name": "Mesterh�zy Attila ",
+    "party": "MSZP"
+  },
+  "126": {
+    "day": 214,
+    "numb": 64,
+    "name": "Dr. Guly�s Gergely ",
+    "party": "Fidesz5"
+  },
+  "127": {
+    "day": 214,
+    "numb": 68,
+    "name": "Dr. Guly�s Gergely ",
+    "party": "Fidesz7"
+  },
+  "128": {
+    "day": 214,
+    "numb": 70,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "129": {
+    "day": 214,
+    "numb": 82,
+    "name": "Kunhalmi �gnes ",
+    "party": "MSZP"
+  },
+  "130": {
+    "day": 214,
+    "numb": 84,
+    "name": "Szab� Szabolcs ",
+    "party": "independent0"
+  },
+  "131": {
+    "day": 214,
+    "numb": 86,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "132": {
+    "day": 214,
+    "numb": 94,
+    "name": "Fodor G�bor ",
+    "party": "independent2"
+  },
+  "133": {
+    "day": 214,
+    "numb": 98,
+    "name": "Teleki L�szl� ",
+    "party": "MSZP1"
+  },
+  "134": {
+    "day": 214,
+    "numb": 100,
+    "name": "Mesterh�zy Attila ",
+    "party": "MSZP7"
+  },
+  "135": {
+    "day": 214,
+    "numb": 104,
+    "name": "Dr. Szak�cs L�szl� ",
+    "party": "MSZP3"
+  },
+  "136": {
+    "day": 214,
+    "numb": 116,
+    "name": "Ikotity Istv�n ",
+    "party": "LMP9"
+  },
+  "137": {
+    "day": 214,
+    "numb": 126,
+    "name": "Dr. Aradszki Andr�s ",
+    "party": "KDNP"
+  },
+  "138": {
+    "day": 216,
+    "numb": 12,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "139": {
+    "day": 216,
+    "numb": 17,
+    "name": "Lezs�k S�ndor ",
+    "party": "Fidesz"
+  },
+  "140": {
+    "day": 216,
+    "numb": 18,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "141": {
+    "day": 216,
+    "numb": 90,
+    "name": "Dr. Szab� L�szl�0:44",
+    "party": "Fidesz"
+},
+  "142": {
+    "day": 216,
+    "numb": 176,
+    "name": "P�ncz�l K�roly ",
+    "party": "Fidesz"
+  },
+  "143": {
+    "day": 216,
+    "numb": 178,
+    "name": "Dr. Mikola Istv�n1:24",
+    "party": "Fidesz"
+},
+  "144": {
+    "day": 216,
+    "numb": 180,
+    "name": "P�ncz�l K�roly ",
+    "party": "Fidesz"
+  },
+  "145": {
+    "day": 217,
+    "numb": 2,
+    "name": "Dr. T�th Bertalan ",
+    "party": "MSZP"
+  },
+  "146": {
+    "day": 217,
+    "numb": 6,
+    "name": "F�ldi L�szl� ",
+    "party": "KDNP"
+  },
+  "147": {
+    "day": 217,
+    "numb": 8,
+    "name": "Kontr�t K�roly ",
+    "party": "Fidesz"
+  },
+  "148": {
+    "day": 217,
+    "numb": 14,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "149": {
+    "day": 217,
+    "numb": 20,
+    "name": "K�sa Lajos ",
+    "party": "Fidesz"
+  },
+  "150": {
+    "day": 217,
+    "numb": 22,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "151": {
+    "day": 217,
+    "numb": 38,
+    "name": "K�v�r L�szl� ",
+    "party": "Fidesz"
+  },
+  "152": {
+    "day": 217,
+    "numb": 39,
+    "name": "Szil�gyi Gy�rgy ",
+    "party": "Jobbik"
+  },
+  "153": {
+    "day": 217,
+    "numb": 43,
+    "name": "Szil�gyi Gy�rgy ",
+    "party": "Jobbik"
+  },
+  "154": {
+    "day": 217,
+    "numb": 50,
+    "name": "K�v�r L�szl� ",
+    "party": "Fidesz"
+  },
+  "155": {
+    "day": 217,
+    "numb": 51,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "156": {
+    "day": 217,
+    "numb": 55,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "157": {
+    "day": 217,
+    "numb": 83,
+    "name": "Dr. Fazekas S�ndor ",
+    "party": "Fidesz"
+  },
+  "158": {
+    "day": 217,
+    "numb": 249,
+    "name": "Bur�ny S�ndor ",
+    "party": "MSZP"
+  },
+  "159": {
+    "day": 218,
+    "numb": 2,
+    "name": "Dr. B�r�ndy Gergely ",
+    "party": "MSZP"
+  },
+  "160": {
+    "day": 218,
+    "numb": 12,
+    "name": "Kontr�t K�roly ",
+    "party": "Fidesz"
+  },
+  "161": {
+    "day": 218,
+    "numb": 96,
+    "name": "Dr. B�r�ndy Gergely ",
+    "party": "MSZP"
+  },
+  "162": {
+    "day": 219,
+    "numb": 100,
+    "name": "Dr. Sz�l Bernadett ",
+    "party": "LMP2"
+  },
+  "163": {
+    "day": 220,
+    "numb": 72,
+    "name": "Dr. Gy�re Csaba ",
+    "party": "Jobbik5"
+  },
+  "164": {
+    "day": 220,
+    "numb": 80,
+    "name": "Dunai M�nika ",
+    "party": "Fidesz1"
+  },
+  "165": {
+    "day": 221,
+    "numb": 4,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "166": {
+    "day": 221,
+    "numb": 6,
+    "name": "Dr. T�th Bertalan ",
+    "party": "MSZP"
+  },
+  "167": {
+    "day": 221,
+    "numb": 20,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "168": {
+    "day": 221,
+    "numb": 116,
+    "name": "Orb�n Viktor ",
+    "party": "Fidesz"
+  },
+  "169": {
+    "day": 221,
+    "numb": 118,
+    "name": "Vona G�bor ",
+    "party": "Jobbik"
+  },
+  "170": {
+    "day": 221,
+    "numb": 140,
+    "name": "Balla Gy�rgy ",
+    "party": "Fidesz"
+  },
+  "171": {
+    "day": 221,
+    "numb": 204,
+    "name": "Ander Bal�zs ",
+    "party": "Jobbik"
+  },
+  "172": {
+    "day": 222,
+    "numb": 16,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "173": {
+    "day": 222,
+    "numb": 143,
+    "name": "Lezs�k S�ndor ",
+    "party": "Fidesz"
+  },
+  "174": {
+    "day": 222,
+    "numb": 152,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "175": {
+    "day": 222,
+    "numb": 175,
+    "name": "L�z�r J�nos ",
+    "party": "Fidesz"
+  },
+  "176": {
+    "day": 222,
+    "numb": 179,
+    "name": "L�z�r J�nos ",
+    "party": "Fidesz"
+  },
+  "177": {
+    "day": 223,
+    "numb": 6,
+    "name": "Dr. Vejkey Imre ",
+    "party": "KDNP"
+  },
+  "178": {
+    "day": 223,
+    "numb": 8,
+    "name": "Solt�sz Mikl�s ",
+    "party": "KDNP"
+  },
+  "179": {
+    "day": 223,
+    "numb": 14,
+    "name": "Dr. Guly�s Gergely ",
+    "party": "Fidesz"
+  },
+  "180": {
+    "day": 224,
+    "numb": 10,
+    "name": "K�sa Lajos ",
+    "party": "Fidesz5"
+  },
+  "181": {
+    "day": 224,
+    "numb": 16,
+    "name": "Dr. T�th Bertalan ",
+    "party": "MSZP1"
+  },
+  "182": {
+    "day": 224,
+    "numb": 80,
+    "name": "Dr. Vejkey Imre ",
+    "party": "KDNP"
+  },
+  "183": {
+    "day": 224,
+    "numb": 152,
+    "name": "Kov�cs S�ndor ",
+    "party": "Fidesz"
+  },
+  "184": {
+    "day": 225,
+    "numb": 12,
+    "name": "Fodor G�bor ",
+    "party": "independent4"
+  },
+  "185": {
+    "day": 225,
+    "numb": 124,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "186": {
+    "day": 225,
+    "numb": 126,
+    "name": "Hadh�zy S�ndor ",
+    "party": "Fidesz"
+  },
+  "187": {
+    "day": 226,
+    "numb": 12,
+    "name": "Solt�sz Mikl�s ",
+    "party": "KDNP"
+  },
+  "188": {
+    "day": 226,
+    "numb": 42,
+    "name": "Mesterh�zy Attila ",
+    "party": "MSZP"
+  },
+  "189": {
+    "day": 227,
+    "numb": 2,
+    "name": "Dr. T�th Bertalan ",
+    "party": "MSZP"
+  },
+  "190": {
+    "day": 227,
+    "numb": 12,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "191": {
+    "day": 227,
+    "numb": 145,
+    "name": "Dr. Latorcai J�nos ",
+    "party": "KDNP"
+  },
+  "192": {
+    "day": 227,
+    "numb": 146,
+    "name": "Dr. Salacz L�szl� ",
+    "party": "Fidesz"
+  },
+  "193": {
+    "day": 227,
+    "numb": 148,
+    "name": "Kontr�t K�roly ",
+    "party": "Fidesz"
+  },
+  "194": {
+    "day": 227,
+    "numb": 150,
+    "name": "Dr. Salacz L�szl� ",
+    "party": "Fidesz"
+  },
+  "195": {
+    "day": 228,
+    "numb": 91,
+    "name": "Jakab Istv�n ",
+    "party": "Fidesz"
+  },
+  "196": {
+    "day": 228,
+    "numb": 92,
+    "name": "Dr. Tilki Attila ",
+    "party": "Fidesz"
+  },
+  "197": {
+    "day": 228,
+    "numb": 94,
+    "name": "Dr. Szab� L�szl�2:56",
+    "party": "Fidesz"
+},
+  "198": {
+    "day": 228,
+    "numb": 96,
+    "name": "Dr. Tilki Attila ",
+    "party": "Fidesz"
+  },
+  "199": {
+    "day": 228,
+    "numb": 118,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "200": {
+    "day": 228,
+    "numb": 120,
+    "name": "Kontr�t K�roly ",
+    "party": "Fidesz"
+  },
+  "201": {
+    "day": 228,
+    "numb": 200,
+    "name": "Mirk�czki �d�m ",
+    "party": "Jobbik"
+  },
+  "202": {
+    "day": 228,
+    "numb": 202,
+    "name": "Kontr�t K�roly ",
+    "party": "Fidesz"
+  },
+  "203": {
+    "day": 228,
+    "numb": 256,
+    "name": "Bur�ny S�ndor ",
+    "party": "MSZP"
+  },
+  "204": {
+    "day": 231,
+    "numb": 17,
+    "name": "Lezs�k S�ndor ",
+    "party": "Fidesz"
+  },
+  "205": {
+    "day": 231,
+    "numb": 18,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "206": {
+    "day": 231,
+    "numb": 22,
+    "name": "Harangoz� G�bor Istv�n ",
+    "party": "MSZP"
+  },
+  "207": {
+    "day": 231,
+    "numb": 114,
+    "name": "Orb�n Viktor ",
+    "party": "Fidesz"
+  },
+  "208": {
+    "day": 231,
+    "numb": 130,
+    "name": "Pog�cs�s Tibor ",
+    "party": "Fidesz"
+  },
+  "209": {
+    "day": 231,
+    "numb": 182,
+    "name": "Harangoz� G�bor Istv�n ",
+    "party": "MSZP"
+  },
+  "210": {
+    "day": 231,
+    "numb": 184,
+    "name": "Dr. Semj�n Zsolt ",
+    "party": "KDNP"
+  },
+  "211": {
+    "day": 231,
+    "numb": 210,
+    "name": "Cs�b�r Katalin ",
+    "party": "Fidesz"
+  },
+  "212": {
+    "day": 231,
+    "numb": 236,
+    "name": "Dr. Tilki Attila ",
+    "party": "Fidesz"
+  },
+  "213": {
+    "day": 232,
+    "numb": 2,
+    "name": "Orb�n Viktor ",
+    "party": "Fidesz2"
+  },
+  "214": {
+    "day": 232,
+    "numb": 6,
+    "name": "Vona G�bor ",
+    "party": "Jobbik"
+  },
+  "215": {
+    "day": 232,
+    "numb": 8,
+    "name": "Dr. Sz�l Bernadett ",
+    "party": "LMP"
+  },
+  "216": {
+    "day": 232,
+    "numb": 10,
+    "name": "Harrach P�ter ",
+    "party": "KDNP"
+  },
+  "217": {
+    "day": 232,
+    "numb": 18,
+    "name": "Orb�n Viktor ",
+    "party": "Fidesz"
+  },
+  "218": {
+    "day": 232,
+    "numb": 20,
+    "name": "Dr. T�th Bertalan ",
+    "party": "MSZP"
+  },
+  "219": {
+    "day": 232,
+    "numb": 24,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "220": {
+    "day": 232,
+    "numb": 26,
+    "name": "Kontr�t K�roly ",
+    "party": "Fidesz"
+  },
+  "221": {
+    "day": 232,
+    "numb": 101,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "222": {
+    "day": 232,
+    "numb": 103,
+    "name": "Dr. Hiller Istv�n ",
+    "party": "MSZP"
+  },
+  "223": {
+    "day": 232,
+    "numb": 141,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "224": {
+    "day": 232,
+    "numb": 179,
+    "name": "Kontr�t K�roly ",
+    "party": "Fidesz"
+  },
+  "225": {
+    "day": 232,
+    "numb": 271,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "226": {
+    "day": 232,
+    "numb": 293,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "227": {
+    "day": 233,
+    "numb": 50,
+    "name": "Dr. Latorcai J�nos ",
+    "party": "KDNP"
+  },
+  "228": {
+    "day": 233,
+    "numb": 87,
+    "name": "Dr. Gy�re Csaba ",
+    "party": "Jobbik"
+  },
+  "229": {
+    "day": 233,
+    "numb": 159,
+    "name": "G�r N�ndor ",
+    "party": "MSZP"
+  },
+  "230": {
+    "day": 236,
+    "numb": 20,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "231": {
+    "day": 236,
+    "numb": 54,
+    "name": "K�sa Lajos ",
+    "party": "Fidesz"
+  },
+  "232": {
+    "day": 237,
+    "numb": 4,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "233": {
+    "day": 237,
+    "numb": 12,
+    "name": "Z. K�rp�t D�niel ",
+    "party": "Jobbik"
+  },
+  "234": {
+    "day": 238,
+    "numb": 2,
+    "name": "Orb�n Viktor ",
+    "party": "Fidesz2"
+  },
+  "235": {
+    "day": 238,
+    "numb": 4,
+    "name": "Vona G�bor ",
+    "party": "Jobbik"
+  },
+  "236": {
+    "day": 238,
+    "numb": 6,
+    "name": "Dr. T�th Bertalan ",
+    "party": "MSZP"
+  },
+  "237": {
+    "day": 238,
+    "numb": 10,
+    "name": "Harrach P�ter ",
+    "party": "KDNP"
+  },
+  "238": {
+    "day": 238,
+    "numb": 12,
+    "name": "K�sa Lajos ",
+    "party": "Fidesz"
+  },
+  "239": {
+    "day": 238,
+    "numb": 16,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "240": {
+    "day": 238,
+    "numb": 18,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "241": {
+    "day": 238,
+    "numb": 34,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "242": {
+    "day": 238,
+    "numb": 100,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "243": {
+    "day": 238,
+    "numb": 104,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "244": {
+    "day": 238,
+    "numb": 240,
+    "name": "Mesterh�zy Attila ",
+    "party": "MSZP"
+  },
+  "245": {
+    "day": 240,
+    "numb": 4,
+    "name": "L. Simon L�szl� ",
+    "party": "Fidesz"
+  },
+  "246": {
+    "day": 240,
+    "numb": 6,
+    "name": "Dr. Leg�ny Zsolt ",
+    "party": "MSZP"
+  },
+  "247": {
+    "day": 240,
+    "numb": 10,
+    "name": "Ikotity Istv�n ",
+    "party": "LMP"
+  },
+  "248": {
+    "day": 240,
+    "numb": 14,
+    "name": "G�r N�ndor ",
+    "party": "MSZP"
+  },
+  "249": {
+    "day": 240,
+    "numb": 32,
+    "name": "Szabolcs Attila ",
+    "party": "Fidesz"
+  },
+  "250": {
+    "day": 241,
+    "numb": 3,
+    "name": "N�meth Zsolt ",
+    "party": "Fidesz"
+  },
+  "251": {
+    "day": 241,
+    "numb": 5,
+    "name": "Tuzson Bence ",
+    "party": "Fidesz"
+  },
+  "252": {
+    "day": 241,
+    "numb": 53,
+    "name": "Schmuck Erzs�bet ",
+    "party": "LMP"
+  },
+  "253": {
+    "day": 242,
+    "numb": 13,
+    "name": "Dr. Latorcai J�nos ",
+    "party": "KDNP"
+  },
+  "254": {
+    "day": 242,
+    "numb": 14,
+    "name": "Solt�sz Mikl�s ",
+    "party": "KDNP"
+  },
+  "255": {
+    "day": 242,
+    "numb": 16,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "256": {
+    "day": 242,
+    "numb": 18,
+    "name": "Dr. Guly�s Gergely ",
+    "party": "Fidesz"
+  },
+  "257": {
+    "day": 242,
+    "numb": 20,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "258": {
+    "day": 243,
+    "numb": 2,
+    "name": "Sallai R. Benedek ",
+    "party": "LMP"
+  },
+  "259": {
+    "day": 243,
+    "numb": 12,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "260": {
+    "day": 243,
+    "numb": 58,
+    "name": "Dunai M�nika ",
+    "party": "Fidesz"
+  },
+  "261": {
+    "day": 243,
+    "numb": 60,
+    "name": "Dr. Leg�ny Zsolt ",
+    "party": "MSZP"
+  },
+  "262": {
+    "day": 243,
+    "numb": 62,
+    "name": "Dr. Gy�re Csaba ",
+    "party": "Jobbik"
+  },
+  "263": {
+    "day": 243,
+    "numb": 92,
+    "name": "Dr. Vit�nyi Istv�n ",
+    "party": "Fidesz"
+  },
+  "264": {
+    "day": 244,
+    "numb": 24,
+    "name": "Demeter M�rta ",
+    "party": "LMP8"
+  },
+  "265": {
+    "day": 244,
+    "numb": 48,
+    "name": "Kepli Lajos ",
+    "party": "Jobbik7"
+  },
+  "266": {
+    "day": 245,
+    "numb": 1,
+    "name": "Lezs�k S�ndor ",
+    "party": "Fidesz"
+  },
+  "267": {
+    "day": 245,
+    "numb": 2,
+    "name": "Dr. Aradszki Andr�s ",
+    "party": "KDNP"
+  },
+  "268": {
+    "day": 245,
+    "numb": 4,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "269": {
+    "day": 245,
+    "numb": 14,
+    "name": "Volner J�nos ",
+    "party": "Jobbik"
+  },
+  "270": {
+    "day": 245,
+    "numb": 110,
+    "name": "Vona G�bor ",
+    "party": "Jobbik"
+  },
+  "271": {
+    "day": 245,
+    "numb": 118,
+    "name": "Dr. Sz�l Bernadett ",
+    "party": "LMP"
+  },
+  "272": {
+    "day": 245,
+    "numb": 120,
+    "name": "Orb�n Viktor ",
+    "party": "Fidesz"
+  },
+  "273": {
+    "day": 245,
+    "numb": 130,
+    "name": "Balla Gy�rgy ",
+    "party": "Fidesz"
+  },
+  "274": {
+    "day": 245,
+    "numb": 138,
+    "name": "Dr. B�r�ndy Gergely ",
+    "party": "MSZP"
+  },
+  "275": {
+    "day": 246,
+    "numb": 2,
+    "name": "Dr. T�th Bertalan ",
+    "party": "MSZP"
+  },
+  "276": {
+    "day": 246,
+    "numb": 4,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "277": {
+    "day": 246,
+    "numb": 10,
+    "name": "Dr. Sz�l Bernadett ",
+    "party": "LMP"
+  },
+  "278": {
+    "day": 246,
+    "numb": 12,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "279": {
+    "day": 246,
+    "numb": 13,
+    "name": "Jakab Istv�n ",
+    "party": "Fidesz"
+  },
+  "280": {
+    "day": 246,
+    "numb": 48,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "281": {
+    "day": 246,
+    "numb": 136,
+    "name": "Mirk�czki �d�m ",
+    "party": "Jobbik"
+  },
+  "282": {
+    "day": 246,
+    "numb": 138,
+    "name": "Kontr�t K�roly ",
+    "party": "Fidesz"
+  },
+  "283": {
+    "day": 246,
+    "numb": 150,
+    "name": "Demeter M�rta ",
+    "party": "LMP"
+  },
+  "284": {
+    "day": 246,
+    "numb": 158,
+    "name": "�gh P�ter ",
+    "party": "Fidesz"
+  },
+  "285": {
+    "day": 246,
+    "numb": 198,
+    "name": "Csepreghy N�ndor1:30",
+    "party": "Fidesz"
+},
+  "286": {
+    "day": 246,
+    "numb": 200,
+    "name": "Dr. Hadh�zy �kos ",
+    "party": "LMP"
+  },
+  "287": {
+    "day": 246,
+    "numb": 240,
+    "name": "Kepli Lajos ",
+    "party": "Jobbik"
+  },
+  "288": {
+    "day": 246,
+    "numb": 242,
+    "name": "Dr. Vas Imre ",
+    "party": "Fidesz"
+  },
+  "289": {
+    "day": 246,
+    "numb": 244,
+    "name": "Dr. Staudt G�bor ",
+    "party": "Jobbik"
+  },
+  "290": {
+    "day": 246,
+    "numb": 293,
+    "name": "Dr. Hiller Istv�n ",
+    "party": "MSZP"
+  },
+  "291": {
+    "day": 247,
+    "numb": 26,
+    "name": "Dr. B�r�ndy Gergely ",
+    "party": "MSZP"
+  },
+  "292": {
+    "day": 247,
+    "numb": 28,
+    "name": "Dr. Hiller Istv�n ",
+    "party": "MSZP8"
+  },
+  "293": {
+    "day": 247,
+    "numb": 30,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik1"
+  },
+  "294": {
+    "day": 247,
+    "numb": 34,
+    "name": "Szab� Szabolcs ",
+    "party": "independent"
+  },
+  "295": {
+    "day": 247,
+    "numb": 36,
+    "name": "Dr. R�p�ssy R�bert ",
+    "party": "Fidesz5"
+  },
+  "296": {
+    "day": 247,
+    "numb": 38,
+    "name": "Ikotity Istv�n ",
+    "party": "LMP"
+  },
+  "297": {
+    "day": 247,
+    "numb": 40,
+    "name": "Dr. B�r�ndy Gergely ",
+    "party": "MSZP4"
+  },
+  "298": {
+    "day": 247,
+    "numb": 42,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "299": {
+    "day": 247,
+    "numb": 44,
+    "name": "Dr. V�lner P�l ",
+    "party": "Fidesz"
+  },
+  "300": {
+    "day": 249,
+    "numb": 25,
+    "name": "Mesterh�zy Attila ",
+    "party": "MSZP4"
+  },
+  "301": {
+    "day": 250,
+    "numb": 2,
+    "name": "Demeter M�rta ",
+    "party": "LMP"
+  },
+  "302": {
+    "day": 250,
+    "numb": 4,
+    "name": "Kontr�t K�roly ",
+    "party": "Fidesz"
+  },
+  "303": {
+    "day": 250,
+    "numb": 6,
+    "name": "Dr. Moln�r Zsolt ",
+    "party": "MSZP"
+  },
+  "304": {
+    "day": 250,
+    "numb": 18,
+    "name": "B�na Zolt�n ",
+    "party": "Fidesz"
+  },
+  "305": {
+    "day": 250,
+    "numb": 36,
+    "name": "Gyop�ros Alp�r ",
+    "party": "Fidesz"
+  },
+  "306": {
+    "day": 250,
+    "numb": 38,
+    "name": "Csepreghy N�ndor2:09",
+    "party": "Fidesz"
+},
+  "307": {
+    "day": 250,
+    "numb": 88,
+    "name": "Magyar Zolt�n ",
+    "party": "Jobbik"
+  },
+  "308": {
+    "day": 250,
+    "numb": 150,
+    "name": "Dr. Vas Imre ",
+    "party": "Fidesz"
+  },
+  "309": {
+    "day": 250,
+    "numb": 227,
+    "name": "Sneider Tam�s ",
+    "party": "Jobbik"
+  },
+  "310": {
+    "day": 250,
+    "numb": 228,
+    "name": "Ander Bal�zs ",
+    "party": "Jobbik"
+  },
+  "311": {
+    "day": 251,
+    "numb": 2,
+    "name": "Dr. T�th Bertalan ",
+    "party": "MSZP"
+  },
+  "312": {
+    "day": 251,
+    "numb": 13,
+    "name": "K�v�r L�szl� ",
+    "party": "Fidesz"
+  },
+  "313": {
+    "day": 251,
+    "numb": 14,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "314": {
+    "day": 251,
+    "numb": 16,
+    "name": "Kontr�t K�roly ",
+    "party": "Fidesz"
+  },
+  "315": {
+    "day": 251,
+    "numb": 124,
+    "name": "Volner J�nos ",
+    "party": "Jobbik"
+  },
+  "316": {
+    "day": 254,
+    "numb": 36,
+    "name": "Dunai M�nika ",
+    "party": "Fidesz0"
+  },
+  "317": {
+    "day": 254,
+    "numb": 38,
+    "name": "Z. K�rp�t D�niel ",
+    "party": "Jobbik"
+  },
+  "318": {
+    "day": 255,
+    "numb": 2,
+    "name": "Harrach P�ter ",
+    "party": "KDNP"
+  },
+  "319": {
+    "day": 255,
+    "numb": 16,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "320": {
+    "day": 255,
+    "numb": 244,
+    "name": "Ander Bal�zs ",
+    "party": "Jobbik7"
+  },
+  "321": {
+    "day": 256,
+    "numb": 14,
+    "name": "Gaal Gergely ",
+    "party": "KDNP"
+  },
+  "322": {
+    "day": 256,
+    "numb": 16,
+    "name": "Dr. V�lner P�l ",
+    "party": "Fidesz"
+  },
+  "323": {
+    "day": 256,
+    "numb": 18,
+    "name": "Dr. Guly�s Gergely ",
+    "party": "Fidesz"
+  },
+  "324": {
+    "day": 256,
+    "numb": 47,
+    "name": "K�v�r L�szl� ",
+    "party": "Fidesz"
+  },
+  "325": {
+    "day": 256,
+    "numb": 48,
+    "name": "Dr. Vas Imre ",
+    "party": "Fidesz"
+  },
+  "326": {
+    "day": 256,
+    "numb": 50,
+    "name": "Dr. V�lner P�l ",
+    "party": "Fidesz"
+  },
+  "327": {
+    "day": 256,
+    "numb": 186,
+    "name": "Vargha Tam�s ",
+    "party": "Fidesz"
+  },
+  "328": {
+    "day": 256,
+    "numb": 226,
+    "name": "Dr. B�r�ndy Gergely ",
+    "party": "MSZP"
+  },
+  "329": {
+    "day": 256,
+    "numb": 228,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "330": {
+    "day": 256,
+    "numb": 230,
+    "name": "Dr. Vas Imre ",
+    "party": "Fidesz"
+  },
+  "331": {
+    "day": 256,
+    "numb": 234,
+    "name": "Dr. Leg�ny Zsolt ",
+    "party": "MSZP"
+  },
+  "332": {
+    "day": 256,
+    "numb": 236,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "333": {
+    "day": 259,
+    "numb": 28,
+    "name": "Dr. Leg�ny Zsolt ",
+    "party": "MSZP"
+  },
+  "334": {
+    "day": 259,
+    "numb": 34,
+    "name": "Dr. Leg�ny Zsolt ",
+    "party": "MSZP"
+  },
+  "335": {
+    "day": 259,
+    "numb": 38,
+    "name": "Mesterh�zy Attila ",
+    "party": "MSZP"
+  },
+  "336": {
+    "day": 259,
+    "numb": 44,
+    "name": "Dr. Leg�ny Zsolt ",
+    "party": "MSZP"
+  },
+  "337": {
+    "day": 259,
+    "numb": 94,
+    "name": "Dr. Leg�ny Zsolt ",
+    "party": "MSZP"
+  },
+  "338": {
+    "day": 260,
+    "numb": 2,
+    "name": "M�ring J�zsef Attila ",
+    "party": "KDNP"
+  },
+  "339": {
+    "day": 260,
+    "numb": 22,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "340": {
+    "day": 260,
+    "numb": 30,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "341": {
+    "day": 260,
+    "numb": 34,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "342": {
+    "day": 260,
+    "numb": 113,
+    "name": "Lezs�k S�ndor ",
+    "party": "Fidesz"
+  },
+  "343": {
+    "day": 260,
+    "numb": 114,
+    "name": "Dr. Hadh�zy �kos ",
+    "party": "LMP"
+  },
+  "344": {
+    "day": 260,
+    "numb": 136,
+    "name": "Szil�gyi Gy�rgy ",
+    "party": "Jobbik"
+  },
+  "345": {
+    "day": 260,
+    "numb": 158,
+    "name": "Dr. Tilki Attila ",
+    "party": "Fidesz"
+  },
+  "346": {
+    "day": 260,
+    "numb": 162,
+    "name": "Dr. Tilki Attila ",
+    "party": "Fidesz"
+  },
+  "347": {
+    "day": 260,
+    "numb": 164,
+    "name": "Magyar Levente1:06",
+    "party": "Fidesz"
+},
+  "348": {
+    "day": 260,
+    "numb": 223,
+    "name": "Lezs�k S�ndor ",
+    "party": "Fidesz"
+  },
+  "349": {
+    "day": 261,
+    "numb": 13,
+    "name": "K�v�r L�szl� ",
+    "party": "Fidesz"
+  },
+  "350": {
+    "day": 261,
+    "numb": 14,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "351": {
+    "day": 261,
+    "numb": 16,
+    "name": "Dr. R�tv�ri Bence ",
+    "party": "KDNP"
+  },
+  "352": {
+    "day": 261,
+    "numb": 18,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz"
+  },
+  "353": {
+    "day": 261,
+    "numb": 20,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "354": {
+    "day": 261,
+    "numb": 66,
+    "name": "Solt�sz Mikl�s ",
+    "party": "KDNP"
+  },
+  "355": {
+    "day": 262,
+    "numb": 16,
+    "name": "Tuzson Bence ",
+    "party": "Fidesz"
+  },
+  "356": {
+    "day": 263,
+    "numb": 38,
+    "name": "Dr. Hadh�zy �kos ",
+    "party": "LMP4"
+  },
+  "357": {
+    "day": 264,
+    "numb": 8,
+    "name": "B�na Zolt�n ",
+    "party": "Fidesz"
+  },
+  "358": {
+    "day": 264,
+    "numb": 18,
+    "name": "Dr. Sz�l Bernadett ",
+    "party": "LMP"
+  },
+  "359": {
+    "day": 264,
+    "numb": 20,
+    "name": "Pog�cs�s Tibor ",
+    "party": "Fidesz"
+  },
+  "360": {
+    "day": 264,
+    "numb": 208,
+    "name": "L�z�r J�nos ",
+    "party": "Fidesz4"
+  },
+  "361": {
+    "day": 264,
+    "numb": 244,
+    "name": "Tuzson Bence ",
+    "party": "Fidesz"
+  },
+  "362": {
+    "day": 264,
+    "numb": 250,
+    "name": "Szil�gyi Gy�rgy ",
+    "party": "Jobbik"
+  },
+  "363": {
+    "day": 265,
+    "numb": 6,
+    "name": "Dr. Sz�l Bernadett ",
+    "party": "LMP"
+  },
+  "364": {
+    "day": 265,
+    "numb": 25,
+    "name": "K�v�r L�szl� ",
+    "party": "Fidesz"
+  },
+  "365": {
+    "day": 265,
+    "numb": 212,
+    "name": "Ikotity Istv�n ",
+    "party": "LMP"
+  },
+  "366": {
+    "day": 266,
+    "numb": 21,
+    "name": "Lezs�k S�ndor ",
+    "party": "Fidesz"
+  },
+  "367": {
+    "day": 266,
+    "numb": 22,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz3"
+  },
+  "368": {
+    "day": 266,
+    "numb": 24,
+    "name": "Tuzson Bence ",
+    "party": "Fidesz"
+  },
+  "369": {
+    "day": 266,
+    "numb": 26,
+    "name": "Dr. Salacz L�szl� ",
+    "party": "Fidesz"
+  },
+  "370": {
+    "day": 266,
+    "numb": 28,
+    "name": "Dr. R�p�ssy R�bert ",
+    "party": "Fidesz8"
+  },
+  "371": {
+    "day": 266,
+    "numb": 30,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "372": {
+    "day": 266,
+    "numb": 32,
+    "name": "Dr. Staudt G�bor ",
+    "party": "Jobbik4"
+  },
+  "373": {
+    "day": 266,
+    "numb": 34,
+    "name": "Szab� Szabolcs ",
+    "party": "independent"
+  },
+  "374": {
+    "day": 266,
+    "numb": 36,
+    "name": "Dr. Moln�r Zsolt ",
+    "party": "MSZP"
+  },
+  "375": {
+    "day": 266,
+    "numb": 40,
+    "name": "Dr. Moln�r Zsolt ",
+    "party": "MSZP"
+  },
+  "376": {
+    "day": 266,
+    "numb": 42,
+    "name": "Balla Gy�rgy ",
+    "party": "Fidesz"
+  },
+  "377": {
+    "day": 266,
+    "numb": 44,
+    "name": "Balla Gy�rgy ",
+    "party": "Fidesz"
+  },
+  "378": {
+    "day": 266,
+    "numb": 46,
+    "name": "Dr. Moln�r Zsolt ",
+    "party": "MSZP"
+  },
+  "379": {
+    "day": 266,
+    "numb": 48,
+    "name": "Dr. Gy�re Csaba ",
+    "party": "Jobbik"
+  },
+  "380": {
+    "day": 266,
+    "numb": 66,
+    "name": "Dr. Latorcai J�nos ",
+    "party": "KDNP"
+  },
+  "381": {
+    "day": 267,
+    "numb": 2,
+    "name": "Dr. T�th Bertalan ",
+    "party": "MSZP"
+  },
+  "382": {
+    "day": 267,
+    "numb": 6,
+    "name": "Vona G�bor ",
+    "party": "Jobbik"
+  },
+  "383": {
+    "day": 267,
+    "numb": 10,
+    "name": "Dr. Sz�l Bernadett ",
+    "party": "LMP"
+  },
+  "384": {
+    "day": 267,
+    "numb": 16,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "385": {
+    "day": 268,
+    "numb": 12,
+    "name": "Dr. Sz�l Bernadett ",
+    "party": "LMP"
+  },
+  "386": {
+    "day": 268,
+    "numb": 20,
+    "name": "Solt�sz Mikl�s ",
+    "party": "KDNP"
+  },
+  "387": {
+    "day": 268,
+    "numb": 26,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+},
+  "388": {
+    "day": 268,
+    "numb": 48,
+    "name": "Kontr�t K�roly ",
+    "party": "Fidesz"
+  },
+  "389": {
+    "day": 268,
+    "numb": 58,
+    "name": "Szatm�ry Krist�f ",
+    "party": "Fidesz"
+  },
+  "390": {
+    "day": 268,
+    "numb": 62,
+    "name": "Szatm�ry Krist�f ",
+    "party": "Fidesz"
+  },
+  "391": {
+    "day": 268,
+    "numb": 72,
+    "name": "Kontr�t K�roly ",
+    "party": "Fidesz"
+  },
+  "392": {
+    "day": 268,
+    "numb": 130,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "393": {
+    "day": 269,
+    "numb": 2,
+    "name": "Vona G�bor ",
+    "party": "Jobbik"
+  },
+  "394": {
+    "day": 269,
+    "numb": 12,
+    "name": "Solt�sz Mikl�s ",
+    "party": "KDNP"
+  },
+  "395": {
+    "day": 269,
+    "numb": 16,
+    "name": "Hollik Istv�n ",
+    "party": "KDNP"
+  },
+  "396": {
+    "day": 269,
+    "numb": 18,
+    "name": "Solt�sz Mikl�s ",
+    "party": "KDNP"
+  },
+  "397": {
+    "day": 269,
+    "numb": 20,
+    "name": "Solt�sz Mikl�s ",
+    "party": "KDNP"
+  },
+  "398": {
+    "day": 269,
+    "numb": 34,
+    "name": "Dr. B�r�ndy Gergely ",
+    "party": "MSZP6"
+  },
+  "399": {
+    "day": 269,
+    "numb": 52,
+    "name": "Mesterh�zy Attila ",
+    "party": "MSZP"
+  },
+  "400": {
+    "day": 269,
+    "numb": 64,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "401": {
+    "day": 269,
+    "numb": 68,
+    "name": "Solt�sz Mikl�s ",
+    "party": "KDNP"
+  },
+  "402": {
+    "day": 269,
+    "numb": 70,
+    "name": "Sz�vay Istv�n ",
+    "party": "Jobbik"
+  },
+  "403": {
+    "day": 269,
+    "numb": 72,
+    "name": "Dr. Ap�ti Istv�n ",
+    "party": "Jobbik"
+  },
+  "404": {
+    "day": 269,
+    "numb": 152,
+    "name": "Tuzson Bence ",
+    "party": "Fidesz0"
+  },
+  "405": {
+    "day": 269,
+    "numb": 154,
+    "name": "N�meth Szil�rd Istv�n ",
+    "party": "Fidesz0"
+  },
+  "406": {
+    "day": 269,
+    "numb": 156,
+    "name": "Dr. Vejkey Imre ",
+    "party": "KDNP"
+  },
+  "407": {
+    "day": 269,
+    "numb": 158,
+    "name": "Mirk�czki �d�m ",
+    "party": "Jobbik6"
+  },
+  "408": {
+    "day": 269,
+    "numb": 164,
+    "name": "Mirk�czki �d�m ",
+    "party": "Jobbik"
+  },
+  "409": {
+    "day": 269,
+    "numb": 166,
+    "name": "Sallai R. Benedek ",
+    "party": "LMP7"
+  },
+  "410": {
+    "day": 269,
+    "numb": 168,
+    "name": "Fodor G�bor ",
+    "party": "independent8"
+  },
+  "411": {
+    "day": 269,
+    "numb": 170,
+    "name": "Dr. M�trai M�rta ",
+    "party": "Fidesz"
+  },
+  "412": {
+    "day": 269,
+    "numb": 172,
+    "name": "Sallai R. Benedek ",
+    "party": "LMP"
+  },
+  "413": {
+    "day": 269,
+    "numb": 174,
+    "name": "Ikotity Istv�n ",
+    "party": "LMP"
+  },
+  "414": {
+    "day": 269,
+    "numb": 176,
+    "name": "Tuzson Bence ",
+    "party": "Fidesz"
+  },
+  "415": {
+    "day": 270,
+    "numb": 12,
+    "name": "B�nki Erik ",
+    "party": "Fidesz"
+  },
+  "416": {
+    "day": 270,
+    "numb": 24,
+    "name": "Dr. Sz�l Bernadett ",
+    "party": "LMP3"
+  },
+  "417": {
+    "day": 271,
+    "numb": 6,
+    "name": "Z. K�rp�t D�niel ",
+    "party": "Jobbik"
+  },
+  "418": {
+    "day": 271,
+    "numb": 28,
+    "name": "Dr. Guly�s Gergely ",
+    "party": "Fidesz"
+  },
+  "419": {
+    "day": 271,
+    "numb": 30,
+    "name": "D�m�t�r Csaba",
+    "party": "Fidesz"
+	}
+}
+}

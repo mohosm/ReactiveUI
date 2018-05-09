@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "total": 25,
+    "topics": ["Europe", "privatization", "election", "legislation", "NATO", "economics", "agriculture", "reaction", "other"],
+    "topicLegend":{
+      "1":{
+        "topic":"Europe",
+        "legend":"As leader of a commission on European integration, his comments on issues on catching up with Europe became more weighted."
+      },
+      "2":{
+        "topic":"privatization",
+        "legend":"As privatization moved forward and the cracks started to appear, Orban criticised the socialist government's measures with more rigor."
+      },
+      "3":{
+        "topic":"election",
+        "legend":"When Orban brought up the elections during this period, he mainly meant to criticise the governing parties for not living up to their election promises."
+      },
+      "4":{
+        "topic":"economics",
+        "legend":"Orban's views on economical progress strengthened. He even thought supporting this was more important than keeping a rigorous budget."
+      },
+      "5":{
+        "topic":"legislation",
+        "legend":"Orban mainly commented on proposed laws referring to European and international matters. Because of his office in the Integration Commission, he didn't take many stands in other issues."
+      },
+      "6":{
+        "topic":"NATO",
+        "legend":"Hungary joined the NATO in 1997. Orban supported this, although he deemed it important that the country receives fair treatment from the organization."
+      },
+      "7":{
+        "topic":"agriculture",
+        "legend":"Orban heavily cricised initiatives that would have made it easier for foreigners to buy land in Hungary. He did this because he thought that these measures would harm Hungarian landowners."
+      },
+      "8":{
+        "topic":"reaction",
+        "legend":"In his reactions to cricisim, Orban started to become more cunning and perceptive."
+      },
+      "9":{
+        "topic":"other",
+        "legend":"Other topics include: Orban excusing himself, saying thanks."
+      }
+    }
+  },
+  "speeches": {
+    "1": {
+      "day": 17,
+      "numb": 12,
+      "text": " Eln�k �r! Tisztelt H�z! H�lgyeim �s Uraim! Bocs�nat: Eln�k Asszony (Der�lts�g.) �s tisztelt Minisztereln�k �r! Magam szem�ly szerint �s a Fidesz parlamenti frakci�ja egyar�nt nagy v�rakoz�ssal tekintett a mai minisztereln�ki expoz� el�. Lelkileg is pr�b�ltam f�lk�sz�lni arra, hogy az orsz�g sors�t �szint�n f�lt�r�, s�lyos �s fontos besz�ddel fogunk majd  itt tal�lkozni.  Hallv�n a  minisztereln�k  �r  besz�d�t, eltan�cstalanodtam. Bevallom �szint�n, az is megfordult a fejemben, hogy csak egy r�vid, k�tperces hozz�sz�l�sra k�rek sz�t, �s annyit mondok: hogy a besz�db�l megtudtuk azt, hogy a korm�ny hely�n van, dolgozni akar - ehhez er�t, eg�szs�get, sok sikert k�v�nunk. (Der�lts�g.)",
+      "topics":"other"
+    },
+    "2": {
+      "day": 35,
+      "numb": 42,
+      "text": " Tisztelt Eln�k Asszony! Tisztelt H�z! Kedves K�pvisel�t�rsaim! Az eur�pai integr�ci�s �gyekkel foglalkoz� bizotts�g volt feltehet�en a legnehezebb helyzetben, amikor az 1995. �vre sz�l� k�lts�gvet�st t�rgyalta. Ennek az az oka, hogy a magyar korm�ny mostani rendszer�ben nincsen olyan elk�l�n�tett int�zm�nyrendszer, amely az eur�pai integr�ci�val foglalkozna, s �gy sajnos a mi bizotts�gunknak k�t r�gi kulcssz�val kellett �lland�an megk�zdenie, az egyik �gy hangzik, hogy komplex, a m�sik pedig az, hogy �thatja. Ez magyarul azt jelenti, hogy b�rhonnan is pr�b�l az ember hozz�ny�lni az eur�pai integr�ci�ra sz�nt nemzeti k�lts�gekhez, mindig abba a falba �tk�zik - mondjuk egy miniszt�rium k�lts�gvet�s�nek �ttekint�sekor -, hogy nem lehet megmondani, pontosan mekkor�k az integr�ci� k�lts�gei, mert az integr�ci�s szempont, az Eur�p�hoz val� csatlakoz�s a miniszt�rium eg�sz m�k�d�s�t �thatja. Vagy a feladat oly m�rt�kben komplex, hogy - mondjuk - nem lehet megmondani, hogy egy miniszt�riumi port�s m�k�d�s�nek h�ny �r�ja az, amely eur�pai integr�ci�s szempontb�l elsz�moland� k�lts�g, �s a munka mely r�sze az, amelyik nem.",
+      "topics": "Europe"
+    },
+    "3": {
+      "day": 35,
+      "numb": 43,
+      "text": " Megk�sz�n�m Orb�n Viktornak, hogy az eur�pai integr�ci�s �gyek bizotts�g�nak az �ll�spontj�t ismertette.",
+      "topics": "Europe"
+    },
+    "4": {
+      "day": 51,
+      "numb": 36,
+      "text": " K�sz�n�m a sz�t, eln�k �r. Tisztelt H�z! H�lgyeim �s Uraim! A baloldali blokk p�rtjainak korm�nyprogramj�ban az a meg�llap�t�s szerepelt, hogy ir�nyv�lt�sra van sz�ks�g a privatiz�ci�ban, s fel kell gyors�tani a privatiz�ci�s folyamatot. A korm�ny megalakul�sa �ta k�tsz�z nap telt el, s �gy a korm�ny privatiz�ci�s elk�pzel�seir�l nem els�sorban az el�tt�nk fekv� sz�vegb�l, hanem a val�s�gban t�rt�ntek alapj�n alkothatunk k�pet.",
+      "topics": "privatization"
+    },
+    "5": {
+      "day": 73,
+      "numb": 44,
+      "text": ": Tisztelt K�zt�rsas�gi Eln�k �r! Eln�k �r! Tisztelt K�pvisel�t�rsaim! Az elm�lt hetekben �s h�napokban m�r sz�mos alkalommal elmondtuk, hogy az SZDSZ-MSZP-korm�ny el�tt�nk fekv� int�zked�sei szemben�llnak azzal, amit ezek a p�rtok a v�laszt�si kamp�nyban �g�rtek Magyarorsz�g n�p�nek.  Ma m�r  nyilv�nval�, hogy az MSZP �s az SZDSZ megt�vesztette a v�laszt�kat, hamis p�nzen vette, megt�veszt�ssel, t�ved�sbe ejt�ssel kaparintotta meg Magyarorsz�g korm�nyr�dj�t. ",
+      "topics":"election"
+    },
+    "6": {
+      "day": 73,
+      "numb": 50,
+      "text": " Tisztelt Eln�k �r! Feltehet�en a mai nap sor�n m�g t�bbsz�r �lni fogok ezzel az alkalommal. (K�zbesz�l�s balr�l: Am�g az id� megengedi!) Els� alkalommal csak a k�vetkez�ket szeretn�m mondani: Javaslom Szekeres �rnak, hogy az id�zett mondatok el�tt �s ut�n l�v� k�t mondatot is olvassa fel, s akkor m�s �rtelemet kap. (Taps a jobb oldalon. - Gell�rt Kis G�bor: �gy is t�ll�pte az id�t!) M�sodsorban: Pet� Iv�n szavai �s Szekeres �r szavai k�z�tt vil�gos az ellentmond�s. Pet� �r meger�s�tette, hogy a Fidesz m�r '93 v�g�n is gazdas�gpolitikai f�lfordulatot k�vetelt, ami azt jelentette, hogy a gazdas�gi n�veked�st nem lehet fel�ldozni a k�lts�gvet�si gazd�lkod�s olt�r�n. Ennyiben a Fidesz val�ban ezt k�vette. Ilyen �rtelemben teh�t mi azt az utat j�rjuk, amelyet Pet� Iv�n pontosan id�zett egy�bk�nt a 1993-as vit�b�l �s az itt szerepl�, n�lam is ittl�v�, �n �ltal n�mileg tendenci�zusan id�zett Fidesz programb�l. (Zaj.) Ami pedig a szoci�lis ell�t�sok rendszer�t illeti, a Fidesz �ll�spontja most is v�ltozatlan. A magunk r�sz�r�l k�szs�ggel �llunk az �n�k rendelkez�s�re olyan szakmai vit�kban, amelyek arr�l sz�lnak, hogy milyen �j csal�di �s szoci�lis ell�t�rendszerre van sz�ks�g. De amit �n�k most csin�lnak, az nem egy �j szoci�lis �s csal�di ell�t�si rendszer kialak�t�sa, hanem egy r�gi lerombol�sa, a romhalmaz otthagy�sa, mindenfajta �j rendszer m�k�d�sbe helyez�se n�lk�l! (Taps a jobb oldalon.) Ha ez nem �gy lenne, akkor feltehet�en el�sz�r behozt�k volna ide el�nk a m�g el nem k�sz�lt, az �llamh�ztart�si reformra vonatkoz� elk�pzel�seket �s a szoci�lis ell�t�rendszer �talak�t�s�ra vonatkoz� koncepci�kat. Nem ezt tett�k! Ezek az int�zked�sek - ne ringass�k magukat ebben az ill�zi�ban, tisztelt korm�nyp�rti k�pvisel� h�lgyek �s urak! - nem egy �j rendszer fel�p�t�s�r�l sz�lnak, hanem a r�gi sz�trombol�s�r�l an�lk�l, hogy a kor�bban ell�t�sban r�szes�l�k sz�m�ra kil�t�st tudtak volna ny�jtani. K�sz�n�m a figyelmet.",
+      "topics":"economics"
+    },
+    "7": {
+      "day": 73,
+      "numb": 76,
+      "text": " Eln�k Asszony! Tisztelt H�z! Az�rt k�rtem sz�t, mert a Magyar K�zt�rsas�g minisztereln�ke s�lyos dolgokat k�z�lt vel�nk - s�lyosabbakat, mint azt els� l�t�sra tal�n sokan gondoln�k -, els�sorban az orsz�g nemzetk�zi f�gg�s�vel kapcsolatosan.",
+      "topics":"reaction"
+    },
+    "8": {
+      "day": 73,
+      "numb": 100,
+      "text": " Az els� �ll�t�sunk az, hogy az id�zet pontos volt; csak nem olvasta v�gig a mondatot a cit�l�, hanem meg�llt a vessz�n�l. Ezt h�vjuk nemtelennek.",
+      "topics":"reaction"
+    },
+    "9": {
+      "day": 73,
+      "numb": 106,
+      "text": " Eln�k �r! Tisztelt H�z! H�lgyeim �s Uraim! Fel is k�v�nom haszn�lni a rendelkez�semre �ll� kev�s id�t, s Kuncze G�bor k�pvisel� �rnak szeretn�k v�laszolni.",
+      "topics": "reaction"
+    },
+    "10": {
+      "day": 91,
+      "numb": 73,
+      "text": " Eln�k Asszony! Tisztelt H�z! �llamtitk�r �r egy mondat�t szeretn�m t�nyekkel korrig�lni.",
+      "topics": "reaction"
+    },
+    "11": {
+      "day": 107,
+      "numb": 164,
+      "text": " Eln�k Asszony! Tisztelt K�pvisel�t�rsaim! Tisztelt Miniszter �r! Sz�kesfeh�rv�r megyei jog� v�ros t�vf�t�s�hez �s melegv�z-ell�t�s�hoz a sz�ks�ges h�energi�t az �D�SZ Rt. tulajdon�ban l�v�, �gynevezett F�t�er�m� Kft. biztos�tja. Ez a kft. 90 sz�zal�kban a v�ros polg�rai �s int�zm�nyei sz�m�ra termel energi�t. Jelenleg ez azt jelenti, hogy mintegy 20 ezer lak�snak �s 6 ezer lak�segys�gnek megfelel� int�zm�nynek biztos�t energi�t.",
+      "topics":"privatization"
+    },
+    "12": {
+      "day": 107,
+      "numb": 168,
+      "text": " Tisztelt Miniszter �r! V�lasz�t Sz�kesfeh�v�r v�ros polg�rainak nev�ben is megk�sz�n�m.",
+      "topics":"reaction"
+    },
+    "13": {
+      "day": 122,
+      "numb": 88,
+      "text": " Eln�k Asszony! Tisztelt H�z! H�lgyeim �s Uraim!  Az eur�pai integr�ci�s �gyek bizotts�ga az el�tt�nk fekv� t�rv�nyjavaslatot �ltal�nos vit�ra alkalmasnak tal�lta a k�vetkez� megfontol�sok alapj�n:",
+      "topics": "Europe, legislation"
+    },
+    "14": {
+      "day": 135,
+      "numb": 312,
+      "text": " Eln�k �r! Tisztelt H�z! H�lgyeim �s Uraim! El�lj�r�ban szeretn�m lesz�gezni, hogy a Fidesz-Magyar Polg�ri P�rt parlamenti frakci�ja t�mogatja a honv�delmi bizotts�g �ltal v�gleges form�ba �nt�tt eredeti korm�ny-el�terjeszt�st. Tett�nk azonban n�h�ny m�dos�t� ind�tv�nyra javaslatot. Szeretn�nk �n�ket arra k�rni, hogy ezeket fontolj�k meg.",
+      "topics":"legislation"
+    },
+    "15": {
+      "day": 143,
+      "numb": 64,
+      "text": " Eln�k �r! Tisztelt H�lgyeim �s Uraim! B�r az elm�lt napokban valamelyest rendez�d�tt az a k�rd�s, hogy milyen m�rt�k� garanci�t v�llal a NATO a jelen pillanatban hat�rainkon k�v�l �llom�soz� magyar csapatok biztos�t�sa �rdek�ben, �s a v�rt v�lasz meg�rkezett �s az kedvez�bb, mint azt sokan gondoltuk volna, m�gis �gy tartottuk Wachsler Tam�s k�pvisel�t�rsammal egy�tt, hogy ezt az ind�tv�nyt napirenden k�v�njuk tartani.",
+      "topics": "NATO"
+    },
+    "16": {
+      "day": 197,
+      "numb": 16,
+      "text": " Eln�k Asszony! Tisztelt H�z! H�lgyeim �s Uraim! Miel�tt ismertetn�m  �n�kkel a Fidesz-Magyar Polg�ri P�rt �ll�spontj�t, engedj�k meg, hogy az el�ttem sz�l�k k�z�l k�t k�pvisel�t�rsam egy-egy megjegyz�s�re r�viden reag�ljak.",
+      "topics":"reaction"
+    },
+    "17": {
+      "day": 202,
+      "numb": 32,
+      "text": " Eln�k Asszony! Tisztelt H�z! H�lgyeim �s Uraim! Minisztereln�k �r! Figyelmesen k�vett�k a minisztereln�k  �r  besz�mol�j�t  a  korm�ny  elm�lt  k�t esztendej�r�l, �s �gy d�nt�ttem, hogy h�t k�rd�sr�l szeretn�k a rendelkez�semre �ll� n�h�ny percben sz�t ejteni.",
+      "topics":"other"
+    },
+    "18": {
+      "day": 202,
+      "numb": 48,
+      "text": " Eln�k Asszony! Tisztelt H�z! Tisztelt Bel�gyminiszter �r! Szeretn�m megk�sz�nni  azt  a megjegyz�s�t,  amelyet nekem  mint az eur�pai  integr�ci�s �gyekkel foglalkoz� bizotts�g eln�k�nek int�zett, mert �gy m�d ny�lhat tal�n v�glegesen egy bizonyos k�rd�st tiszt�zni.",
+      "topics": "Europe"
+    },
+    "19": {
+      "day": 202,
+      "numb": 52,
+      "text": " Sajnos, k�nytelen vagyok - eln�k asszony -  ism�t  sz�t  k�rni,  mert  nem  szeretn�m,  ha  a  magyar v�laszt�polg�rokban  az  a  k�p alakulna  ki,  mint  hogyha  a Magyarorsz�ggal szembeni k�vetelm�nyek a gazdas�gpolitika tekintet�ben az Eur�pai Uni� r�sz�r�l m�r megfogalmaz�dtak volna. Ez t�ved�s. Ilyen k�vetelm�nyek, vil�gos krit�riumok m�g nincsenek.",
+      "topics": "Europe, economics"
+    },
+    "20": {
+      "day": 202,
+      "numb": 110,
+      "text": " Eln�k Asszony! Tisztelt H�z! El�sz�r is k�sz�n�m sz�pen a Magyar Demokrata F�rumnak, hogy lehet�s�get adott, hogy - tekintettel a Fidesz-Magyar Polg�ri P�rt sz�k id�keret�re - m�gis r�viden v�laszolhassak Bauer Tam�s k�pvisel�t�rsunknak. El�sz�r is: az ellenz�k soraiban nincs egyetlen olyan p�rt sem, amelyik ne gondoln� �gy, hogy sz�ks�ges az �llamh�ztart�s reformja. Nincs olyan ellenz�ki p�rt itt, ezekben a padsorokban, amelyik �gy gondoln�, hogy ne kellene a szoci�lis ell�t�rendszert megreform�lni. A mi probl�m�nk az az �n�k int�zked�s�vel, hogy nem l�tjuk azt a rendszert, amiv� �t k�v�nj�k alak�tani a mostani rendszert. �s nemcsak mi nem l�tjuk egy�bk�nt, hanem �n�k sz�mtalan nyilatkozatban elismert�k, hogy nem egy elgondolt �llamh�ztart�si reformkoncepci�t hajtanak v�gre, hanem a v�ls�gkezel�s jegy�ben olyan int�zked�seket hoznak, amelyekt�l azt rem�lik - �s ez vagy �gy lesz, vagy nem -, hogy hosszabb t�von illeszkedik majd valamifajta, ma m�g senki �ltal nem ismert, �llamh�ztart�si reformkoncepci�ba. Ez az, amit mi kifog�solunk, ez az, amit mi �gy szoktunk megfogalmazni - �rz�s�nk szerint teljes joggal -, hogy el�sz�r �n�k v�gnak, �s azt�n m�rnek. A m�sodik megjegyz�sem az az, hogy az �n�k korm�nykoal�ci�j�nak volt, van 72 sz�zal�ka ebben a parlamentben. Mindenhol a vil�gon ekkora t�mogatotts�ggal bele szoktak - bele mernek - v�gni nagyar�ny� �llamh�ztart�si reformokba. Ez itt nem t�rt�nt meg. Mi �gy �t�lj�k meg, hogy �n�k m�st tettek ehelyett. �n�k sz�nd�kosan f�lp�rgett�k az �rakat, sz�nd�kosan felp�rgett�k az infl�ci�t, ezzel levitt�k a j�vedelmek re�l�rt�k�t, �s cs�kkentett�k az �llamt�l kapott szoci�lis ell�t�soknak az �rt�k�t. �s azt hiszem, hogy nem �n vagyok az az ember, akinek egy olyan kiv�l� k�zgazd�szt - mint Bauer Tam�s - eml�keztetnem kell arra a t�nyre, hogy az infl�ci� a legigazs�gtalanabb v�ls�gkezel� eszk�z, a legigazs�gtalanabb gazdas�gpolitikai eszk�z, mert mindig a legszeg�nyebbeket s�jtja, akiknek nincs lehet�s�g�k arra, hogy annak s�lyos k�vetkezm�nyeit kiv�dj�k. Ezek azok a b�r�latok, ezek azok a megjegyz�sek, amelyeket a Fidesz-Magyar Polg�ri P�rt ma vez�rsz�noklat keret�ben is megpr�b�lt az �n�k sz�m�ra vil�goss� tenni. Mindenesetre k�sz�n�m Bauer Tam�snak, hogy lehet�s�get adott arra, hogy ezt most hosszabban is kifejthessem. (Taps az ellenz�k padsoraiban.)",
+      "topics": "economics"
+    },
+    "21": {
+      "day": 295,
+      "numb": 44,
+      "text": " Eln�k �r! Tisztelt H�z! H�lgyeim �s Uraim! Magyarorsz�gon ma k�lf�ldiek f�ldtulajdont nem szerezhetnek. Ezt szabatos megfogalmaz�sban az 1994. �vi LV., a magyar term�f�ldr�l sz�l� t�rv�ny ma m�g kiz�rja.",
+      "topics": "legislation, agriculture"
+    },
+    "22": {
+      "day": 295,
+      "numb": 46,
+      "text": " Igyekszem, eln�k �r. ...amelyekkel �n�k megpr�b�lj�k az �ll�spontjukat al�t�masztani. Amit �n�k csin�lnak, k�rem, az Eur�p�ban nincs, ezt majd egy m�sik hozz�sz�l�sban szeretn�m kifejteni...",
+      "topics":"other"
+    },
+    "23": {
+      "day": 295,
+      "numb": 48,
+      "text": " Ez�rt arra k�rem - �s mondand�mnak ez a v�ge - a korm�nyt, hogy l�ssa be (Nagy zaj a korm�nyp�rti oldalon.), nincs olyan magyar t�rsadalmi csoport, amelynek �rdek�t szolg�ln� az el�terjeszt�se, csak egy ilyen csoport l�tezik, ez pedig a k�lf�ldiek Magyarorsz�gon term�f�ldet szerezni akar�k csoportja. K�rem �n�ket, ne az � �rdekeiket, hanem a magyar polg�rok �rdekeit k�pviselj�k.",
+      "topics":"agriculture"
+    },
+    "24": {
+      "day": 295,
+      "numb": 50,
+      "text": " K�sz�n�m sz�pen. (Taps az ellenz�ki oldalon.)",
+      "topics": "other"
+    },
+    "25": {
+      "day": 298,
+      "numb": 24,
+      "text": " Tisztelt Aleln�k Asszony! H�lgyeim �s Uraim! Tisztelt K�pvisel�t�rsaim! A H�z asztal�n fekszik a H/4742. sz�mot visel�, orsz�gos n�pszavaz�s elrendel�s�r�l sz�l� orsz�ggy�l�si hat�rozat. Ez azt tartalmazza, hogy Magyarorsz�gon lehet�s�g ny�lik arra, hogy mind haz�nk NATO-csatlakoz�s�r�l, mind pedig a k�lf�ldiek f�ldtulajdonszerz�s�r�l Magyarorsz�gon n�pszavaz�ssal d�nthess�nk.",
+      "topics":"NATO, agriculture"
+    }
+  }
+}

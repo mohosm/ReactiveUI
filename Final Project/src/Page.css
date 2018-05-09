@@ -1,0 +1,670 @@
+.positiveClass{
+	background-color: green;
+}
+.negativeClass{
+	background-color: red;
+
+}
+.neutralClass{
+	background-color: rgb(153,153,0);
+
+}
+.bibli{
+	background: none;
+	display: block;
+}
+.legend h5 span{
+		padding: 4px;
+		color: white;
+}
+.critLegend{
+	position: absolute;
+	width: 79.5%;
+	top: 270px;
+	left: 100px;
+	padding: 20px;
+	padding-top: 2px;
+	font-size: 24px;
+	padding-bottom: 2px;
+	background-color: rgba(255,255,255,0.8);
+	border-left: 2px solid gray;
+	border-right: 2px solid gray;
+	margin-bottom: 20px;
+}
+.critLegend img{
+	width: 40%;
+	margin-left: 30%;
+	padding-top: 20px;
+}
+.critLegend p{
+	margin: none;
+	padding: none;
+	margin-left: 20%;
+
+}
+.critLegend h5{
+	margin-left: 50%;
+	padding: none;
+	margin: none;
+}
+.critLegend button{
+	width: 14%;
+	margin-left: 43%;
+	margin-bottom: 20px;
+	border: none;
+	cursor: pointer;
+	font-weight: bold;
+	text-decoration: none;
+	outline: none;
+	font-size: 20px;
+	bottom: 30px;
+	right:20px;
+	background: gray;
+	padding: 10px;
+	color: white;
+}
+.critLegend button:hover{
+background-color: orange;
+}
+.bar p{
+	display: inline-block;
+	width: max-content;
+	line-height: 40px;
+}
+.pListing{
+	display: inline-block;
+	margin: none;
+	padding: none;
+	width: max-content;
+}
+.pListing span{
+	display: inline-block;
+	width: max-content;
+	margin-left: 10px;
+}
+.pListing span p{
+	display: inline-block;
+}
+
+.fid{
+	background-color: rgb(255,140,0);
+	color: rgb(255,140,0);
+}
+.bar .fid{
+	margin-left: 10px;
+}
+.kdn{
+	background-color: rgb(153,153,0);
+	color: rgb(153,153,0);
+}
+.job{
+	background-color: rgb(135,206,250);
+	color: rgb(135,206,250);
+}
+.msz{
+	background-color: rgb(255,102,102);
+	color: rgb(255,102,102);
+}
+.lmp{
+	background-color: rgb(0,255,128);
+	color: rgb(0,255,128);
+}
+.ind{
+	background-color: gray;
+	color: gray;
+}
+.vis{
+	color: black;
+	padding: 5px;
+	display: inline-block;
+}
+.mainMenu{
+
+	width: 50%;
+	margin: auto;
+	margin-top: 230px;
+}
+
+.MainElement{
+	cursor: pointer;
+	width: 24%;
+	display: inline-block;
+	margin-left: 1%;
+	opacity: 0.55;
+
+}
+.MainElement:hover{
+	background-color: orange;
+	opacity: 1;
+}
+
+.MainElement p{
+	position: absolute;
+	width: 12%;
+	bottom: 4px;
+	margin-bottom: 0;
+	color: black;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-decoration: none;
+	background-color: rgba(255,255,255,0.8);
+}
+.MainElement .thePho{
+	width: 100%;
+}
+
+.popup{
+	border: 1px solid gray;
+	position: fixed;
+	display: block;
+	width: 60%;
+	left: 20%;
+	height: max-content;
+	top: 5%;
+	background-color: rgba(250,250,250,0.96);
+	z-index: 2000;
+	padding: 10px;
+}
+.mid{
+	top: 30%;
+
+}
+@keyframes showTopic {
+  from {
+    width: 0;
+		background-color: orange;
+		border: 1px solid orange;
+
+  }
+  to {
+    width: 60%;
+		background-color: rgba(250,250,250,0.96);
+		border: 1px solid gray;
+
+  }
+}
+.popup-enter{
+	animation-name: showTopic;
+	animation-duration: 0.5s;
+}
+.popup-exit {
+  animation-name: showTopic;
+  animation-direction: reverse;
+  animation-duration: 0.5s;
+}
+
+
+.popup h2{
+	color: white;
+	background-color: rgb(100,100,100);
+	width: max-content;
+	font-family: "Garamond";
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.popup img{
+	margin-left: 25%;
+	margin-right: auto;
+}
+.popup p{
+	font-size: 18px;
+	line-height: 28px;
+	padding: 40px;
+	padding-bottom: 0;
+}
+.popup button{
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	text-decoration: none;
+	font-size: 20px;
+	background: gray;
+	color: white;
+	border: none;
+	outline: none;
+	padding: 7px;
+	padding-left: 10px;
+	padding-right: 10px;
+	cursor: pointer;
+}
+.popup button:hover{
+	background-color: orange;
+}
+
+.container{
+	padding-left: 300px;
+	display: grid;
+	grid-template-columns: 50px 60px 100px 60px 150px 60px 150px 60px 50px;
+	grid-template-rows: 90px 60px 90px 60px auto auto auto;
+}
+.arGen{
+	width: 100%;
+	font-size: 50px;
+
+}
+.Arrow0{
+	grid-row-start:3;
+	grid-row-end: 4;
+	grid-column-start: 4;
+	grid-column-end: 5;
+}
+.Arrow1{
+	grid-row-start:5;
+	grid-row-end: 6;
+	grid-column-start: 2;
+	grid-column-end: 3;
+	transform: rotate(-60deg);
+}
+.Arrow2{
+	grid-row-start:4;
+	grid-row-end: 5;
+	grid-column-start: 2;
+	grid-column-end: 3;
+	transform: rotate(-45deg);
+}
+.Arrow3{
+	grid-row-start:2;
+	grid-row-end: 3;
+	grid-column-start: 8;
+	grid-column-end: 9;
+	transform: rotate(135deg);
+}
+.Arrow4{
+	grid-row-start:3;
+	grid-row-end: 4;
+	grid-column-start: 2;
+	grid-column-end: 3;
+}
+.Arrow5{
+	grid-row-start:1;
+	grid-row-end: 2;
+	grid-column-start: 2;
+	grid-column-end: 3;
+	transform: rotate(60deg);
+}
+.Arrow6{
+	grid-row-start:2;
+	grid-row-end: 3;
+	grid-column-start: 2;
+	grid-column-end: 3;
+	transform: rotate(45deg);
+}
+.Arrow7{
+	grid-row-start:3;
+	grid-row-end: 4;
+	grid-column-start: 6;
+	grid-column-end: 7;
+	transform: rotate(180deg);
+}
+.Arrow8{
+	grid-row-start:4;
+	grid-row-end: 5;
+	grid-column-start: 8;
+	grid-column-end: 9;
+	transform: rotate(-135deg);
+}
+.Arrow9{
+	grid-row-start:3;
+	grid-row-end: 4;
+	grid-column-start: 8;
+	grid-column-end: 9;
+	transform: rotate(180deg);
+}
+.Arrow10{
+	grid-row-start:5;
+	grid-row-end: 6;
+	grid-column-start: 8;
+	grid-column-end: 9;
+	transform: rotate(-125deg);
+}
+.Arrow11{
+	grid-row-start:3;
+	grid-row-end: 4;
+	grid-column-start: 5;
+	grid-column-end: 6;
+	transform: rotate(-90deg);
+	padding-right: 50px;
+	z-index: 500;
+}
+.Arrow12{
+	grid-row-start:1;
+	grid-row-end: 2;
+	grid-column-start: 5;
+	grid-column-end: 6;
+	align-content: center;
+	transform: rotate(-90deg);
+	margin: auto;
+	padding-right: 50px;
+	z-index: 500;
+
+}
+.Arrow13{
+	grid-row-start:2;
+	grid-row-end: 3;
+	grid-column-start: 4;
+	grid-column-end: 5;
+	transform: rotate(-45deg);
+}
+.Arrow14{
+	grid-row-start:2;
+	grid-row-end: 3;
+	grid-column-start: 6;
+	grid-column-end: 7;
+	transform: rotate(-45deg);
+}
+.container .ClassMediawork {
+	grid-row-start:3;
+	grid-row-end: 4;
+	grid-column-start: 7;
+	grid-column-end: 8;
+}
+.container .ClassPrime {
+	grid-row-start:3;
+	grid-row-end: 4;
+	grid-column-start: 5;
+	grid-column-end: 6;
+	z-index: 600;
+}
+.container .Class12{
+	grid-row-start:2;
+	grid-row-end: 3;
+	grid-column-start: 9;
+	grid-column-end: 10;
+}
+.container .ClassEcho{
+	grid-row-start:3;
+	grid-row-end: 4;
+	grid-column-start: 9;
+	grid-column-end: 10;
+}
+.container .ClassMagyar{
+	grid-row-start:5;
+	grid-row-end: 6;
+	grid-column-start: 9;
+	grid-column-end: 10;
+}
+.container .ClassKarc{
+	grid-row-start:6;
+	grid-row-end: 7;
+	grid-column-start: 9;
+	grid-column-end: 10;
+}
+.container .ClassTV{
+	grid-row-start:6;
+	grid-row-end: 7;
+	grid-column-start: 1;
+	grid-column-end: 2;
+}
+.container .ClassOrigo{
+	grid-row-start:1;
+	grid-row-end: 2;
+	grid-column-start: 1;
+	grid-column-end: 2;
+	content-align: right;
+}
+.container .ClassLoká{
+	grid-row-start:2;
+	grid-row-end: 3;
+	grid-column-start: 1;
+	grid-column-end: 2;
+}
+.container .Class88{
+	grid-row-start:3;
+	grid-row-end: 4;
+	grid-column-start: 1;
+	grid-column-end: 2;
+
+}
+.container .ClassFigyel{
+	grid-row-start:4;
+	grid-row-end: 5;
+	grid-column-start: 1;
+	grid-column-end: 2;
+}
+.container .ClassRipos{
+	grid-row-start:5;
+	grid-row-end: 6;
+	grid-column-start: 1;
+	grid-column-end: 2;
+
+}
+.container .ClassMTV{
+	grid-row-start:5;
+	grid-row-end: 6;
+	grid-column-start: 5;
+	grid-column-end: 6;
+}
+.container .ClassModern{
+	grid-row-start:3;
+	grid-row-end: 4;
+	grid-column-start: 3;
+	grid-column-end: 4;
+}
+.container .ClassNézőpont{
+	grid-row-start:1;
+	grid-row-end: 2;
+	grid-column-start: 7;
+	grid-column-end: 8;
+}
+.container .ClassSzázadvég{
+	grid-row-start:1;
+	grid-row-end: 2;
+	grid-column-start: 5;
+	grid-column-end: 6;
+	z-index: 600;
+}
+
+li {
+	display: inline;
+	margin-right: 10px;
+	background-color: rgb(80,80,80);
+	color: white;
+	padding: 5px;
+}
+li:hover{
+	background-color: orange;
+	cursor: pointer;
+}
+ul{
+	padding: 0;
+}
+#homeB{
+	z-index: 1000;
+	display: block;
+	position: absolute;
+	right: 90px;
+	top: 10px;
+	background-color: white;
+	width:60px;
+	height: 60px;
+	box-shadow: 0px 10px 20px 0px rgba(255,255,255,0.2);
+}
+.bigImg{
+	display: block;
+	width: 40%;
+	margin: auto;
+	margin-top: 10%;
+}
+.wideImg{
+	display: block;
+	width: 60%;
+	margin: auto;
+	margin-top: 10%;
+}
+#homeB img{
+	width:100%;
+	height: 100%;
+}
+#homeB:hover{
+	cursor: pointer;
+	background-color: orange;
+	box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.2);
+}
+.viz {
+	width: 92%;
+	height: 400px;
+	margin: auto;
+	margin-top: 10%;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+.viz .legend{
+padding: 20px;
+padding-top: 2px;
+font-size: 24px;
+padding-bottom: 2px;
+background-color: rgba(255,255,255,0.8);
+border-left: 2px solid gray;
+border-right: 2px solid gray;
+margin-bottom: 20px;
+}
+.viz .legend h3{
+	font-family: "Garamond";
+}
+.viz .legend img{
+	height: 180px;
+}
+.viz .legend .block1{
+	display: inline-block;
+	width: 25%;
+}
+.viz .legend .block2{
+	display: inline-block;
+	width: 70%;
+}
+.viz .legend .block2 p{
+	bottom: 70px;
+}
+.parViz{
+	width: 92%;
+	height: 400px;
+	margin: auto;
+	margin-top: 10%;
+	padding: 10px;
+}
+.parVizDown{
+	width: 92%;
+	height: 400px;
+	margin: auto;
+	margin-top: 15%;
+	padding: 10px;
+}
+.legend{
+	margin-top: 20px;
+padding: 20px;
+padding-top: 2px;
+font-size: 18px;
+padding-bottom: 2px;
+background-color: rgba(255,255,255,0.8);
+border-left: 2px solid gray;
+border-right: 2px solid gray;
+}
+.conlegend{
+	margin-top: 5px;
+	margin-bottom: 20px;
+padding: 10px;
+padding-top: 2px;
+font-size: 15px;
+padding-bottom: 2px;
+background-color: rgba(255,255,255,0.8);
+border-left: 2px solid gray;
+border-right: 2px solid gray;
+}
+.forward{
+	font-family: "Futura";
+	border: none;
+	cursor: pointer;
+	position: fixed;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 20px;
+	bottom: 30px;
+	right:20px;
+	font-weight: bold;
+	background: gray;
+	padding: 10px;
+	color: white;
+}
+.back{
+	font-weight: bold;
+	position: fixed;
+	text-decoration: none;
+	font-size: 20px;
+	bottom: 30px;
+	left:29px;
+	font-weight: bold;
+	background: gray;
+	padding: 10px;
+	color: white;
+}
+.back:hover{
+	color: white;
+	background-color: orange;
+}
+.forward:hover{
+	color: white;
+	background-color: orange;
+}
+.Page .text_bottom{
+	position: absolute;
+	background-color: rgba(255,255,255,0.7);
+	top: 510px;
+	display: inline-block;
+	font-size: 20px;
+	line-height: 24px;
+	width: 70%;
+	padding: 20px;
+	margin:100px;
+	margin-top: 80px;
+	margin-bottom: 15px;
+	background-size: 100%;
+}
+.Page .text_top{
+	position: absolute;
+	top: 80px;
+	display: inline-block;
+	font-size: 20px;
+	line-height: 24px;
+	width: 80%;
+	padding: 20px;
+	margin:100px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background-size: 100%;
+	background-color: rgba(255,255,255,0.7);
+}
+.Page .text_top a{
+	background-color: rgb(100,100,100);
+	display: inline;
+	text-decoration: none;
+	color: white;
+	padding: 4px;
+}
+.Page .text_top a:hover{
+	background-color: orange;
+}
+.Page h1 {
+	color: white;
+	background-color: rgb(100,100,100);
+	width: max-content;
+	font-family: "Garamond";
+	letter-spacing: 2px;
+	display: block;
+	border: none;
+	padding: 12px;
+	margin-bottom: 15px;
+	margin-left: 29px;
+	margin-top: 10px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.bigVid{
+	top: 20px;
+	width: 45%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 30px;
+}

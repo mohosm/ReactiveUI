@@ -1,0 +1,138 @@
+[{
+  "event": {
+    "title": "Birth",
+    "date": [1963, "May", 31 ],
+    "details": "Orban was burn in a rural middle-class family in Szekesfehervar as the eldest of three brothers. Much of his childhood was spent in near poverty.",
+    "importance": 1,
+    "nature": "personal",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_child.jpg"
+  }},
+  {"event": {
+    "title": "Enrollment in the army",
+    "date": [1981],
+    "details": "As a recent graduate admitted to college, he was required to do two years of military service. His political, anti-communist views were formed during his service. In the ranks, he made a name for himself for his anti-establishment views, unruly behaviour and rebellious nature. ",
+    "importance": 2,
+    "nature": "personal",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_army.jpg"
+  }},
+  {"event": {
+    "title": "Graduation from college",
+    "date": [1987],
+    "details": "He finished a law curriculum at Eotvos Lorand University in Budapest, writing his master's thesis on the Polish Solidarity movement.",
+    "importance": 3,
+    "nature": "personal",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_college.jpg"
+  }},
+  {"event": {
+    "title": "Foundation of Fidesz",
+    "date": [1988, "March",30],
+    "details": "Orban was a founding member of the Alliance of Young Democrats, along with other students from the Bibo Istvan College for Advanced Studies. The party's platform in the beginning was massively anti-communist, youth oriented and liberal. As opposed to the other parties on the left that were formed by seasoned city intellectuals and reform-communists, Fidesz's founding members mostly came from a middle-class, rural background. Many among them would be defining members of the political elite later.",
+    "importance": 1,
+    "nature": "political",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_fideszfound.jpg"
+  }},
+  {"event": {
+    "title": "Studies in Oxford",
+    "date": [1989],
+    "details": "In 1989, Orban received a scholarship from the Soros Foundation to study political science at Pembroke College, Oxford. His personal tutor was Hegelian political philosopher Zbigniew Pelczynski. The provider of his scholarship, Hungarian-American philantrope George Soros later became a target for Fidesz.",
+    "importance": 3,
+    "nature": "personal",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_oxford.jpg"
+  }},
+  {"event": {
+    "title": "Getting into the parlaiment",
+    "date": [1990],
+    "details": "He returned from Oxford to be a candidate in the country's first free elections. He was voted into the parlaiment as the appointed leader of the Fidesz's parliamentary group.",
+    "importance": 1,
+    "nature": "political",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_parlaiment1.jpg"
+  }},
+  {"event": {
+    "title": "At the helm of Fidesz",
+    "date": [1993, "April",18],
+    "details": "Orban became the first president of Fidesz. Under his leadership, the party left behind its liberal, youth-oriented attitude and became a conservative, center-right people's party.",
+    "importance": 1,
+    "nature": "political",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_fideszleader.jpg"
+  }},
+  {"event": {
+    "title": "Another election lost",
+    "date": [1994],
+    "details": "At the 1994 elections, Fidesz barely jumped the 5% threshold to get into the parlaiment due to their change of direction. In the next four years, however, their support grew significantly as the ruling party MDF started to lose people's trust.",
+    "importance": 2,
+    "nature": "political",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_1994.jpg"
+  }},
+  {"event": {
+    "title": "His first term",
+    "date": [1998],
+    "details": "Orban became prime minister for the first time as the leader of a center-right coalition. In the following years, he moved to make the government more centralized, and near the end of his term, he started cutting taxes, raising wages and increasing social benefits, despite the fact that this significantly hurt the country's GDP. He also received criticism for unfairly influencing the media.",
+    "importance": 1,
+    "nature": "political",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_1994.jpg"
+  }},
+ {"event": {
+    "title": "Back to the opposition",
+    "date": [2002],
+    "details": "In a heated race, Fidesz lost to the socialist coalition. The next PM, Péter Medgyessy however continued Orban's trend of increasing social beneficts, putting more strain on the economy.",
+    "importance": 1,
+    "nature": "political",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_2002.jpg"
+  }},
+{"event": {
+    "title": "The last debate",
+    "date": [2006, "April", 5],
+    "details": "Orban, as the leader of the opposition participated in a public election debate with socialist nominee Ferenc Gyurcsany. This was the last time he has participated in a public debate ever since.",
+    "importance": 3,
+    "nature": "political",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_gyurcsany.jpg"
+  }},
+  {"event": {
+    "title": "The failure of the socialists",
+    "date": [2006, "May", 26],
+    "details": "Ferenc Gyurcsany, then socialist Prime Minister gave a private speech condemning the shortcomings of his party's politics. The speech later leaked and sparked much disenchantment with the socialists along with the economical downfall of the country.",
+    "importance": 1,
+    "nature": "political",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/gyurcsany.jpg"
+  }},
+  {"event": {
+    "title": "Second term",
+    "date": [2010, "April"],
+    "details": "During the next parlaimentary elections, Fidesz won with a sweeping majority, with two-thirds of the parlaimentary seats. Orban now had enough power to change the constitution, lower the number of seats in the parlaiment, and put his most loyal friends and followers into positions of power.",
+    "importance": 1,
+    "nature": "political",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_2010.jpg"
+  }},
+  {"event": {
+    "title": "Tightening the grip",
+    "date": [2013],
+    "details": "A new mega-amendment to the Hungarian constitution was introduced, that put an end to the independence of the judiciary, put universities under more governmental control and opened the door to political prosecutions. The amendment was passed against the protest of many EU lawmakers and international experts.",
+    "importance": 2,
+    "nature": "political",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/eu_protest.jpg"
+  }},
+  {"event": {
+    "title": "Reelected once again",
+    "date": [2014],
+    "details": "Fidesz got reelected in 2014, although with a smaller margin of votes.",
+    "importance": 3,
+    "nature": "political",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_2014.jpg"
+  }},
+  {"event": {
+    "title": "Building fences",
+    "date": [2015],
+    "details": "Orban's government, shortly after their re-election in 2014, moved to build a border fence on the southern border in order to deter refugees headed to the country. The government's xenophobic, anti-migrant approach would become prominent in their messaging, and would be the basis of a populist rhetoric used in the 2018 campaign.",
+    "importance": 2,
+    "nature": "political",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/hungary_border.jpg"
+  }},
+  {"event": {
+    "title": "Up to another election",
+    "date": [2018, "April",8],
+    "details": "With politicial allies having acquired much of Hungarian media, and a campaign going in full force agianst EU policies, refugees, and Hungarian-American philantrophist George Soros, now Orban is set to once again win the elections held on the 8th of April",
+    "importance": 1,
+    "nature": "political",
+    "picUrl": "http://imanas.shanghai.nyu.edu/~mm7134/Capstone/pics/orban_2018.jpg"
+  }}
+]

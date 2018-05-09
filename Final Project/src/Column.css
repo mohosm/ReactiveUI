@@ -1,0 +1,147 @@
+.Column{
+display: inline-block;
+width: 1.25%;
+cursor: pointer;
+}
+.ColumnTwo{
+display: inline-block;
+width: 7%;
+cursor: pointer;
+}
+.ColumnSix{
+display: inline-block;
+width: 0.715%;
+cursor: pointer;
+}
+.ColumnSeven{
+display: inline-block;
+width: 1.15%;
+cursor: pointer;
+}
+.ColumnSix:hover .theCol{
+	color: orange;
+	background-color: orange;
+}
+.ColumnSeven:hover .theCol{
+	color: orange;
+	background-color: orange;
+}
+.ColumnSeven:hover .noDay{
+	font-weight: bold;
+	color: black;
+}
+.ColumnSix:hover .noDay{
+	font-weight: bold;
+	color: black;
+}
+.negative{
+	writing-mode: vertical-lr;
+	background-color: red;
+	color: red;
+	width: 95%;
+	margin: 0;
+}
+.positive{
+	writing-mode: vertical-lr;
+	background-color: green;
+	color: green;
+	width: 95%;
+	margin: 0;
+}
+.neutral{
+	writing-mode: vertical-lr;
+	background-color: rgb(153,153,0);
+	color: rgb(153,153,0);
+	width: 95%;
+	margin: 0;
+}
+.ColumnThree{
+display: inline-block;
+width: 1.9%;
+cursor: pointer;
+}
+.ColumnFour{
+display: inline-block;
+width: 1.7%;
+cursor: pointer;
+}
+.ColumnFive{
+display: inline-block;
+width: 2.9%;
+cursor: pointer;
+}
+.Column .hei{
+	display: none;
+}
+.painted{
+	background-color: orange;
+}
+.theCol{
+
+	writing-mode: vertical-lr;
+	background-color: rgb(135,135,135);
+	color: rgb(169,169,169);
+	width: 95%;
+	margin: 0;
+}
+.theColP{
+
+	writing-mode: vertical-lr;
+	background-color: orange;
+	color: orange;
+	width: 95%;
+	margin: 0;
+}
+.Column:hover .theCol{
+	color: orange;
+	background-color: orange;
+}
+.ColumnFive:hover .positive{
+	color: orange;
+	background-color: orange;
+}
+.ColumnFive:hover .neutral{
+	color: orange;
+	background-color: orange;
+}
+.ColumnFive:hover .negative{
+	color: orange;
+	background-color: orange;
+}
+.Column:hover .noDay{
+	font-weight: bold;
+	color: black;
+}
+.ColumnTwo:hover .theCol{
+	color: orange;
+	background-color: orange;
+}
+.ColumnTwo:hover .noDay{
+	font-weight: bold;
+	color: black;
+}
+.ColumnThree:hover .theCol{
+	color: orange;
+	background-color: orange;
+}
+.ColumnThree:hover .noDay{
+	font-weight: bold;
+	color: black;
+}
+.ColumnFour:hover .noDay{
+	font-weight: bold;
+	color: black;
+}
+.ColumnFour:hover .theCol{
+	color: orange;
+	background-color: orange;
+}
+	.noDay{
+	color: #d3d3d3;
+	transform: rotate(50deg);
+	font-size: 14px;
+	width: max-content;
+	text-align: right;
+	padding-left: 10px;
+
+}
